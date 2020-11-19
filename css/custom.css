@@ -1,0 +1,31 @@
+a, a:hover {
+    text-decoration: none;
+}
+.mainNav {
+    color: #fff;
+    font-size: 1.75em;
+}
+
+.mainNav:hover{
+    color: #1abc9c;
+}
+
+.profile-pic {
+    max-width: 300px;
+    border-radius: 10px;
+    border: 6px solid burlywood;
+    box-shadow: 0 0 20px 5px cornsilk;
+}
+
+.profile-pic:hover {
+    border-radius: 50px;
+    border: 6px solid burlywood;
+    box-shadow: 0 0 5px 10px black;
+}
+
+blockquote {
+    padding: 10.5px 21px;
+    margin: 0 0 21px;
+    font-size: 18.75px;
+    border-left: 5px solid #ecf0f1;
+}
