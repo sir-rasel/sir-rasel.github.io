@@ -31,8 +31,10 @@ blockquote {
 }
 
 .button{
+    padding: 2px 5px;
     color: black;
     background-color: lightyellow;
+    border: 1px solid #000;
 }
 
 .button:hover{
