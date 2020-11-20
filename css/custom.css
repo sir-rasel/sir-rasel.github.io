@@ -29,3 +29,14 @@ blockquote {
     font-size: 18.75px;
     border-left: 5px solid #ecf0f1;
 }
+
+.button{
+    color: black;
+    background-color: lightyellow;
+}
+
+.button:hover{
+    background-color: #fff;
+    color: #000;
+    border: 1px solid red;
+}
