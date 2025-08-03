@@ -1,0 +1,161 @@
+baseURL: https://sir-rasel.github.io/
+languageCode: en-us
+title: S.I.R World
+theme: PaperMod
+pagination:
+  pagerSize: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+pluralizeListTitles: false
+
+googleAnalytics: G-FYR20W76LD
+disqusShortname: sir-rasel
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Saiful Islam Rasel
+  description: "Alhamdulillah for Everything"
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Saiful Islam Rasel
+    subtitle: A Product-Centric Software Architect & Engineer With Several Years of Experience 
+      In Designing & Scaling Systems Used By Millions. Always Love To Learn & Share.
+    imageUrl: /img/profile.png
+    imageWidth: 300
+    imageHeight: 300
+    imageTitle: Saiful Islam Rasel
+    buttons:
+      - name: Blogs
+        url: blogs
+      - name: About
+        url: /about/
+  
+  # Keywords
+  keywords:
+    - Blog
+    - Blogs
+    - Article
+    - Articles
+    - Tech
+    - Saiful Islam Rasel 
+    - SIR
+    - S.I.R
+    - DevOps
+    - SRE
+    - Site Realiabilty Engineer
+    - Software Engineer
+    - Software Engineering
+    - IT
+    - Clean Code
+    - OOP
+    - OOP Design Pattern
+    - Software Architect
+    - Software Design Pattern 
+    - Software Architecture
+    - Software Architecture Pattern
+    - Micorservice
+    - Clean Architecture
+    - Monolithic
+  
+  author: [Saiful Islam Rasel, Me]
+  images: [/img/placeholder.svg]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    favicon: "/icon/favicon.ico"
+    favicon16x16: "/icon/favicon16x16.png"
+    favicon32x32: "/icon/favicon32x32.png"
+    apple_touch_icon: "/icon/apple_touch_icon.png"
+    safari_pinned_tab: "/icon/apple_touch_icon.png"
+
+  label:
+    text: 💥 S.I.R World
+
+  socialIcons:
+    - name: email
+      url: mailto:raselcse97@gmail.com
+    - name: github
+      url: "https://github.com/sir-rasel"
+    - name: linkedin
+      url: "https://linkedin.com/in/saiful-islam-rasel"
+    - name: facebook
+      url: "https://www.facebook.com/saifulislam.rasel.9803"
+    - name: resume
+      url: "/saiful-islam-rasel-resume.pdf"
+
+  cover:
+    image: "img/placeholder.svg"
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # fuseOpts: for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.5
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# Top Bar Menus
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 1
+    - identifier: blogs
+      name: Blogs
+      url: /blogs
+      weight: 1
+    - identifier: tags
+      name: 🏷 Tags
+      url: /tags/
+      weight: 2
+    - identifier: search
+      name: 🔍 Search
+      url: /search/
+      weight: 3 
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+markup:
+  highlight:
+    anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    noClasses: true
+    style: monokai
+
+# Outputs
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
