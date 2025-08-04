@@ -8,6 +8,8 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-24.04
+    permissions:
+      contents: write  # Required to push to gh-pages branch
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
