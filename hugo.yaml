@@ -80,7 +80,7 @@ params:
     - Machine Learning
     - LLM
 
-  author: [Saiful Islam Rasel, Me]
+  author: [Saiful Islam Rasel]
   images: [/img/placeholder.svg]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
