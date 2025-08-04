@@ -46,6 +46,10 @@ params:
     - Article
     - Articles
     - Tech
+    - Tech Blog
+    - Tech Blogs
+    - Tech Article
+    - Tech Articles
     - Saiful Islam Rasel 
     - SIR
     - S.I.R
@@ -55,9 +59,15 @@ params:
     - Software Engineer
     - Software Engineering
     - IT
+    - Database
+    - SQL
+    - NOSQL
     - Clean Code
     - OOP
     - OOP Design Pattern
+    - System Design
+    - Software System Design
+    - System Architect
     - Software Architect
     - Software Design Pattern 
     - Software Architecture
@@ -65,7 +75,11 @@ params:
     - Micorservice
     - Clean Architecture
     - Monolithic
-  
+    - AI
+    - Artificial Intelligence
+    - Machine Learning
+    - LLM
+
   author: [Saiful Islam Rasel, Me]
   images: [/img/placeholder.svg]
   DateFormat: "January 2, 2006"
@@ -105,6 +119,10 @@ params:
       url: "https://www.facebook.com/saifulislam.rasel.9803"
     - name: resume
       url: "/saiful-islam-rasel-resume.pdf"
+  
+  analytics:
+      google:
+          SiteVerificationTag: "lh78NtWukx0gwzcK47zA5kjIHsxqydztJTSuKLGlXdE"
 
   cover:
     image: "img/placeholder.svg"
@@ -119,7 +137,7 @@ params:
     shouldSort: true
     location: 0
     distance: 1000
-    threshold: 0.5
+    threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
 
@@ -133,15 +151,15 @@ menu:
     - identifier: blogs
       name: Blogs
       url: /blogs
-      weight: 1
+      weight: 2
     - identifier: tags
       name: 🏷 Tags
       url: /tags/
-      weight: 2
+      weight: 3
     - identifier: search
       name: 🔍 Search
       url: /search/
-      weight: 3 
+      weight: 4 
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 markup:

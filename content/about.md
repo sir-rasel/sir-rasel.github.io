@@ -1,6 +1,7 @@
 ---
 title: "About Myself"
 description: "A Little About Me..."
+tags: ["about", "about-author", "Saiful Islam Rasel"]
 layout: "page"
 type: "page"
 
@@ -11,6 +12,8 @@ comments: false
 
 cover:
   image: "/img/profile.png"
+  alt: "Author"
+  caption: "Saiful Islam Rasel"
   hidden: true
 ---
 
