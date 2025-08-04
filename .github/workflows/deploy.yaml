@@ -1,19 +1,19 @@
-name: GitHub Pages
+name: Build and Deploy to GitHub Pages
 
 on:
   push:
     branches:
-      - main
+      - main  # default branch
 
 jobs:
-  deploy:
-    runs-on: ubuntu-24.04
-    permissions:
-      contents: write  # Required to push to gh-pages branch
+  build:
+    runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
+      cancel-in-progress: true
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
@@ -22,13 +22,30 @@ jobs:
         uses: peaceiris/actions-hugo@v3.0.0
         with:
           hugo-version: '0.148.2'
+          extended: true  # Enable it for hugo extended version
 
-      - name: Build
+      - name: Build site
         run: hugo --minify
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4.0.0
-        if: ${{ github.ref == 'refs/heads/main' }}
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          path: ./public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
+    if: ${{ github.ref == 'refs/heads/main' }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
