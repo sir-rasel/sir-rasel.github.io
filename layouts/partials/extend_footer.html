@@ -1,0 +1,30 @@
+<!-- Privacy Notice Banner -->
+<div id="privacy-banner">
+    <p>
+        We use cookies and technologies like <strong>Google Analytics</strong> and 
+        <strong>Microsoft Clarity</strong> to understand how users interact with our site 
+        and improve your experience.
+    </p>
+    <div id="privacy-banner-buttons">
+        <button id="privacy-accept">Got It</button>
+    </div>
+</div>
+
+<script>
+    
+    (function() {
+        const banner = document.getElementById('privacy-banner');
+        
+        // Check if consent already given
+        if (!localStorage.getItem('privacyConsent')) {
+            banner.style.display = 'block';
+        }
+        
+        // Accept button
+        document.getElementById('privacy-accept').onclick = function() {
+            localStorage.setItem('privacyConsent', 'accepted');
+            banner.style.display = 'none';
+        };
+    })();
+    
+</script>
