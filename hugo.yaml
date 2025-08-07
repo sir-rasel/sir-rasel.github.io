@@ -55,14 +55,25 @@ params:
     - S.I.R
     - DevOps
     - SRE
+    - Git
+    - Github
+    - CI/CD
+    - Docker
+    - Kubernetes
     - Site Realiabilty Engineer
     - Software Engineer
     - Software Engineering
+    - Software Development
     - IT
+    - Information
+    - Technology
+    - Information Technology
     - Database
     - SQL
     - NOSQL
     - Clean Code
+    - Coding
+    - Programming
     - OOP
     - OOP Design Pattern
     - System Design
@@ -79,6 +90,9 @@ params:
     - Artificial Intelligence
     - Machine Learning
     - LLM
+    - OS
+    - Operating System
+    - Linux
 
   author: [Saiful Islam Rasel]
   images: [/img/placeholder.svg]
