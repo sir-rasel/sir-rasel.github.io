@@ -37,11 +37,11 @@ Rakib is 6 years old and today he is very happy as it's his birthday. Rakib's pa
 So to make the program happens successfully, need to define, ordering the steps, and follow the steps accurately.
 
 ## Programming
-In general cases, **programming** is a way to instruct someone/something to make a **program** done. *So now question is what is program?* A program is a set of instructions/steps or processes that makes a whole things done combinedly. For example, in the above story, the birthday celebration is a program and the operations are the instructions/steps that make the program successfull combinely.
+In general cases, **programming** is a way to instruct someone/something to make a **program** done. *So now question is what is program?* A program is a set of instructions/steps or processes that makes a whole things done combinedly. For example, in the above story, the birthday celebration is a program and the operations are the instructions/steps that make the program successful combinedly.
 
 And Comouter Programming is nothing but define some steps/instructions and tells the computer to follow the steps/instructions to do the program done. 
 
-In layman terms: Programming is a way to "***instuct the computer to perform various tasks***".
+In layman terms: Programming is a way to "***instruct the computer to perform various tasks***".
 
 ## Programming Language
 As computer can not understand the human language. So we need a language that can a computer really understand. This computer understandable language is known as ***programming language***. 
@@ -70,11 +70,11 @@ We can identify the following concepts as the fundamental of programming:
 5. **Function:** Used for maintaining code readability, reusability, modularity.
 6. **Memory allocation and Pointer:** Defines how the computer allocate memory for variables and other parts of our program. And pointer helps us to work with memory directly.
 7. **Variable lifetime and Scope:** Defines how much time and from which part a variable is accessible.
-8. **Objecy oriented programming:** A programming paradiagram tha helps us to think and program like the real world objects.
+8. **Object oriented programming:** A programming paradigm that helps us to think and program like the real world objects.
 
 Others advanced concept:
 1. **Data structure:** Define how our data will be store and perform the operation effectively that define by it.
-2. **Algorithm Design:** Teaches us how a problem need to solve step by step and efficiently based on some principle,
+2. **Algorithm Design:** Teaches us how a problem need to solve step by step and efficiently based on some principle.
 3. **Threads, Async-await, Concurrency, Parallel:** Helps us uses the multi processor to speed up our program execution.
 
 In my opinion learning and understanding the fundamentals of anything is more important than just use it. If you can understand the basics then you can adopt any language quite fast because fundamentals are same for all language For example, if you can know what is a gun and how it works then it is very easy to shoot by it with any type of gun.

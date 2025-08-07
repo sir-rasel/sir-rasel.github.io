@@ -131,6 +131,8 @@ params:
       url: "https://linkedin.com/in/saiful-islam-rasel"
     - name: facebook
       url: "https://www.facebook.com/saifulislam.rasel.9803"
+    - name: medium
+      url: "https://medium.com/@saiful-islam-rasel"
     - name: resume
       url: "/saiful-islam-rasel-resume.pdf"
   
