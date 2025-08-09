@@ -27,7 +27,6 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 2:** [Let's Feel Programming Fundamentals - Part 2 (Variable, Operator)]({{< ref "blogs/2-lets-feel-programming-part-2-variable-operator.md" >}})
-
 ---
 
 ## Story
