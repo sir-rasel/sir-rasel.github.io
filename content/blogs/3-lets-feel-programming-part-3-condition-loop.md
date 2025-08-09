@@ -27,7 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 2:** [Let's Feel Programming Fundamentals - Part 2 (Variable, Operator)]({{< ref "blogs/2-lets-feel-programming-part-2-variable-operator.md" >}})
-
+- **Part 4:** [Let's Feel Programming Fundamentals - Part 4 (Function, Pointer, Scope)]({{< ref "blogs/4-lets-feel-programming-part-4-function-pointer.md" >}})
 ---
 
 # Condition & Loop

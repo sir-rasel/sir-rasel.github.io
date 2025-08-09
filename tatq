@@ -1,0 +1,120 @@
+[33mcommit bd1efbb25e4f3dceedfc9cd0b6ac7e2e9f339de2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mpost-4[m[33m, [m[1;31morigin/post-3[m[33m, [m[1;32mpost-3[m[33m)[m
+Author: Saiful Islam Rasel <raselcse97@gmail.com>
+Date:   Sat Aug 9 18:12:42 2025 +0600
+
+    Add 3rd Post
+
+[33mcommit 9c9df8c59c2bfd616db60c1a640bdea8705bfafa[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Saiful Islam Rasel <raselcse97@gmail.com>
+Date:   Sat Aug 9 13:54:10 2025 +0600
+
+    Add 2nd Post
+
+[33mcommit 43fe8e28e3b1ebf70476cb78dcbb939864a3fae0[m
+Author: Saiful Islam Rasel <raselcse97@gmail.com>
+Date:   Fri Aug 8 03:16:51 2025 +0600
+
+    Add Medium Social link
+
+[33mcommit d61a815856bddb18496de93f1e9894762e8021c2[m
+Author: Saiful Islam Rasel <raselcse97@gmail.com>
+Date:   Fri Aug 8 03:07:57 2025 +0600
+
+    Add Disqus Comment
+
+[33mcommit 0b191d8fb6d899e4b17e17dcc329900f91a59107[m
+Author: Saiful Islam Rasel <raselcse97@gmail.com>
+Date:   Fri Aug 8 02:43:43 2025 +0600
+
+    Add 1st Blog
+
+[33mcommit f6c558737431169dbab338c3c83f21adc25d880d[m
+Author: Saiful Islam Rasel <raselcse97@gmail.com>
+Date:   Tue Aug 5 18:17:59 2025 +0600
+
+    Add Privacy Notice in Footer
+
+[33mcommit 40c771aa76ab1f9c0dfde0c75e851ff5922df7d5[m
+Author: Saiful Islam Rasel <raselcse97@gmail.com>
+Date:   Tue Aug 5 15:45:36 2025 +0600
+
+    Add Google Tag Manager
+
+[33mcommit 63344c4b6f279e9b140bcf456529a6e3ce0cf0fe[m
+Author: Saiful Islam Rasel <raselcse97@gmail.com>
+Date:   Tue Aug 5 14:28:02 2025 +0600
+
+    Add ads.txt
+
+[33mcommit cd0fa61897e3db60311cd8a76a8f3308bc8c47cd[m
+Author: Saiful Islam Rasel <raselcse97@gmail.com>
+Date:   Tue Aug 5 01:32:33 2025 +0600
+
+    Update Author
+
+[33mcommit 3977d666194bfa5d65d6c2f0dfe2579c96123435[m
+Author: Saiful Islam Rasel <raselcse97@gmail.com>
+Date:   Tue Aug 5 01:23:05 2025 +0600
+
+    Add MS Clarity
+
+[33mcommit b7b23adbde281bffed173162c2cc2412a02819c3[m
+Author: Saiful Islam Rasel <raselcse97@gmail.com>
+Date:   Mon Aug 4 14:09:33 2025 +0600
+
+    Update deploy.yaml
+
+[33mcommit 447b6d46154db7463fabb4d63063cc7ea706d179[m
+Author: Saiful Islam Rasel <raselcse97@gmail.com>
+Date:   Mon Aug 4 14:07:57 2025 +0600
+
+    Update deploy.yaml with Official Github Deploy Actions
+
+[33mcommit 97258755199afddad1ff6107e5ad2c29129185a0[m
+Author: Saiful Islam Rasel <raselcse97@gmail.com>
+Date:   Mon Aug 4 12:18:03 2025 +0600
+
+    Update deploy.yaml
+
+[33mcommit 8e176a24ba764b269caf06166c01a0b0c6626de7[m
+Author: Saiful Islam Rasel <raselcse97@gmail.com>
+Date:   Mon Aug 4 01:37:07 2025 +0600
+
+    Update Resume
+
+[33mcommit 25e40383ac60c6c3e3ecf2f4c2e87e2b45d73b1c[m
+Author: Saiful Islam Rasel <raselcse97@gmail.com>
+Date:   Mon Aug 4 00:47:13 2025 +0600
+
+    Add Github Action for Deploy
+
+[33mcommit b8a2037be026e1b6c3caad886c8f206ad2794a43[m
+Author: Saiful Islam Rasel <raselcse97@gmail.com>
+Date:   Mon Aug 4 00:42:38 2025 +0600
+
+    Add .gitignore File
+
+[33mcommit 5610db96c59f7c76a6ed7fa06c06f7c57f773874[m
+Merge: ea9afa1 ba45671
+Author: Saiful Islam Rasel <raselcse97@gmail.com>
+Date:   Mon Aug 4 00:37:58 2025 +0600
+
+    Merge branch 'main' of https://github.com/sir-rasel/sir-rasel.github.io
+
+[33mcommit ea9afa12295a87f3a73c20c46d98760b288018b1[m
+Author: Saiful Islam Rasel <raselcse97@gmail.com>
+Date:   Mon Aug 4 00:32:58 2025 +0600
+
+    Initialize the Portfolio Site with Hugo and PaperMod
+
+[33mcommit ba45671c593a8f2bd682eb5a8b8fde369da103ff[m
+Author: Saiful Islam Rasel <s.i.r.computerengineer24@gmail.com>
+Date:   Sun Aug 3 23:31:30 2025 +0600
+
+    Update README.md
+
+[33mcommit 897f28a6b8d694728ecf3b079eeb03eda77462af[m
+Author: Saiful Islam Rasel <s.i.r.computerengineer24@gmail.com>
+Date:   Sun Aug 3 23:29:51 2025 +0600
+
+    Initial commit
