@@ -26,7 +26,9 @@ cover:
 
 ---
 ### Other Parts of This Series:
-**Part 1:** [Let's Feel Programming Fundamentals - Part 1]({{< ref "blogs/1-lets-feel-programming-part-1.md" >}})
+- **Part 1:** [Let's Feel Programming Fundamentals - Part 1]({{< ref "blogs/1-lets-feel-programming-part-1.md" >}})
+
+- **Part 3:** [Let's Feel Programming Fundamentals - Part 3 (Condition, Loop)]({{< ref "blogs/3-lets-feel-programming-part-3-condition-loop.md" >}})
 
 ---
 
