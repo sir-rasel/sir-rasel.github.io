@@ -17,11 +17,17 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowCodeCopyButtons: true
 cover:
-    image: "img/blogs/1-programming-fundamentals.webp"
+    image: "img/blogs/1-programming-languages.jpeg"
     caption: "programming"
     alt: "programming"
     relative: true
     hidden: true
+---
+
+---
+### Other Parts of This Series:
+**Part 2:** [Let's Feel Programming Fundamentals - Part 2 (Variable, Operator)]({{< ref "blogs/2-lets-feel-programming-part-2-variable-operator.md" >}})
+
 ---
 
 ## Story
