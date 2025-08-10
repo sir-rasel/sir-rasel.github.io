@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 3:** [Let's Feel Programming Fundamentals - Part 3 (Condition, Loop)]({{< ref "blogs/3-lets-feel-programming-part-3-condition-loop.md" >}})
+- **Part 5:** [Let's Feel Programming Fundamentals - Part 5 (Procedural, Functional, OOP Style)]({{< ref "blogs/5-lets-feel-programming-part-5-programming-style.md" >}})
 ---
 
 # Function
