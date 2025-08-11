@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 5:** [Let's Feel Programming Fundamentals - Part 5 (Procedural, Functional, OOP Style)]({{< ref "blogs/5-lets-feel-programming-part-5-programming-style.md" >}})
+- **Part 7:** [Let's Feel Programming Fundamentals - Part 7 (Algorithm)]({{< ref "blogs/7-lets-feel-programming-part-7-algorithm.md" >}})
 ---
 
 {{< figure
