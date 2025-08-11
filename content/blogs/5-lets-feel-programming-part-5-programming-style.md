@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 4:** [Let's Feel Programming Fundamentals - Part 4 (Function, Pointer, Scope)]({{< ref "blogs/4-lets-feel-programming-part-4-function-pointer.md" >}})
+- **Part 6:** [Let's Feel Programming Fundamentals - Part 6 (Data Structure)]({{< ref "blogs/6-lets-feel-programming-part-6-data-structure.md" >}})
 ---
 
 {{< figure
