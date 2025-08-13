@@ -17,7 +17,7 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowCodeCopyButtons: true
 cover:
-    image: "img/blogs/7-algorithm.png"
+    image: "img/blogs/8-concurrency-parallel.jpg"
     caption: "programming"
     alt: "programming"
     relative: true
@@ -40,10 +40,10 @@ Remember the principle Virus (Viru Sastre Buddeh) from the 3 Idiots movie. He wa
 
 My friend Sharif is a true die-hard fan of Principle Virus. He also can do multiple tasks at a time. He can write with his 2 hands, 2 legs, and other works simultaneously. Sometimes some works depend on each other, and then he has to wait until the dependent work is done. 
 
-For example, when he solves some math equation, he can start writing different equation solutions with his hands and legs, but when one equation result depends on another, he needs to wait until the dependency equation solution.So in a situation like this he waits, and after the result is found, he solves/does other work.
+For example, when he solves some math equation, he can start writing different equation solutions with his hands and legs, but when one equation result depends on another, he needs to wait until the dependency equation solution. So in a situation like this he waits, and after the result is found, he solves/does other work.
 
 ## Asynchronicity (Asynchronous Programming)
-According to the mdn web docs ***“Asynchronous programming is a technique that enables your program to start a potentially long-running task and still be able to be responsive to other events while that task runs, rather than having to wait until that task has finished. Once that task has finished, your program is presented with the result.”***
+According to the MDN web docs ***“Asynchronous programming is a technique that enables your program to start a potentially long-running task and still be able to be responsive to other events while that task runs, rather than having to wait until that task has finished. Once that task has finished, your program is presented with the result.”***
 
 That means it is a technique that is used to optimize our program run time by doing our task simultaneously side by side at a time. So 2 individually independent tasks can be done together side by side with the help of threads.
 
@@ -68,9 +68,9 @@ Concurrency can be achieved by context-switching for a single core environment a
 Like above, an analogy can be like: one cook juggling several dishes, moving between them quickly.
 
 ## Parallelism
-Parallelism is more powerful then concurrency. Because it actually running multiple tasks at the ***same time*** — truly simultaneous. So to achive true parallelism, it requires, multiple CPU cores or multiple machines.
+Parallelism is more powerful then concurrency. Because it actually running multiple tasks at the ***same time*** — truly simultaneous. So to achieve true parallelism, it requires, multiple CPU cores or multiple machines.
 
-So analogy can be lik: several cooks working in the kitchen at the ***same time***, each preparing a dish simultaneously.
+So analogy can be like: several cooks working in the kitchen at the ***same time***, each preparing a dish simultaneously.
 
 ---
 
