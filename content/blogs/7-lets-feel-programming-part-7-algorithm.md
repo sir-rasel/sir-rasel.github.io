@@ -27,7 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 6:** [Let's Feel Programming Fundamentals - Part 6 (Data Structure)]({{< ref "blogs/6-lets-feel-programming-part-6-data-structure.md" >}})
-- **Part 8:** [Let's Feel Programming Fundamentals - Part 8 (Threads, Async-await, Concurrency, Parallel)]({{< ref "blogs/8-lets-feel-programming-part-8-concurrency-parallel.md" >}})
+<!-- - **Part 8:** [Let's Feel Programming Fundamentals - Part 8 (Threads, Async-await, Concurrency, Parallel)]({{< ref "blogs/8-lets-feel-programming-part-8-concurrency-parallel.md" >}}) -->
 ---
 
 {{< figure
