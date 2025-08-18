@@ -18,8 +18,8 @@ ShowPostNavLinks: true
 ShowCodeCopyButtons: true
 cover:
     image: "img/blogs/8-concurrency-parallel.jpg"
-    caption: "programming"
-    alt: "programming"
+    caption: "concurrency and parallelishm"
+    alt: "concurrency and parallelishm"
     relative: true
     hidden: true
 ---

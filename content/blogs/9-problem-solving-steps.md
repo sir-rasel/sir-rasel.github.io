@@ -18,8 +18,8 @@ ShowPostNavLinks: true
 ShowCodeCopyButtons: true
 cover:
     image: "img/blogs/9-problem-solve-steps.jpg"
-    caption: "programming"
-    alt: "programming"
+    caption: "problem solving framework"
+    alt: "problem solving framework"
     relative: true
     hidden: true
 ---
