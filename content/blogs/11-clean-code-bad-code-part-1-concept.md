@@ -24,6 +24,11 @@ cover:
     hidden: true
 ---
 
+---
+### Other Parts of This Series:
+- **Part 2:** [Writing Clean Code - Part 2 (Name, Function, Comment)]({{< ref "blogs/12-clean-code-bad-code-part-2-name-function-comment.md" >}})
+---
+
 {{< figure
     src="/img/blogs/11-clean-bad-code.webp"
     caption="Clean Code (Photo Credit: Dev Community)"
