@@ -36,7 +36,7 @@ cover:
 >}}
 
 ## Story
-Our prophet Hazrat Muhammad Sallallahu Alayhi Salam advised us that ***“Always try to avoid the acts of sin/bad things because if someone can avoid the bad work, he/she will start doing good work automatically.”*** 
+Our prophet Hazrat Muhammad Sallallahu Alayhi Sallam advised us that ***“Always try to avoid the acts of sin/bad things because if someone can avoid the bad work, he/she will start doing good work automatically.”*** 
 
 This is true for both our real life and writing code. If we can avoid the code smell or bad code, then our code will automatically be good and clean. So identifying the code smell is important. 
 
