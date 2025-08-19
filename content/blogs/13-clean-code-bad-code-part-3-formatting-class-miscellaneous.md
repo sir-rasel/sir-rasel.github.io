@@ -1,7 +1,11 @@
 ---
 title: "Writing Clean Code - Part 3 (Formatting, Class & Object, Miscellaneous)"
 description: "Let's learn how can we write good class, object, and format code"
+<<<<<<< HEAD
 date: 2025-08-20
+=======
+date: 2025-08-19
+>>>>>>> 5caba29 (Add 13th post)
 tags: ["programming", "programming-basic", "clean-code", "code-smell", "bad-smell", "formatting", "class-object"]
 draft: false
 showtoc: false
