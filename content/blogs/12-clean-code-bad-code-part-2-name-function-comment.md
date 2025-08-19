@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 1:** [Writing Clean Code - Part 1 (Conceptually Clean and Bad Code)]({{< ref "blogs/11-clean-code-bad-code-part-1-concept.md" >}})
+- **Part 3:** [Writing Clean Code - Part 3 (Formatting, Class & Object, Miscellaneous)]({{< ref "blogs/13-clean-code-bad-code-part-3-formatting-class-miscellaneous.md" >}})
 ---
 
 {{< figure
