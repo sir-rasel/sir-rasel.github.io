@@ -1,11 +1,7 @@
 ---
 title: "Writing Clean Code - Part 3 (Formatting, Class & Object, Miscellaneous)"
 description: "Let's learn how can we write good class, object, and format code"
-<<<<<<< HEAD
 date: 2025-08-20
-=======
-date: 2025-08-19
->>>>>>> 5caba29 (Add 13th post)
 tags: ["programming", "programming-basic", "clean-code", "code-smell", "bad-smell", "formatting", "class-object"]
 draft: false
 showtoc: false
@@ -31,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 2:** [Writing Clean Code - Part 2 (Name, Function, Comment)]({{< ref "blogs/12-clean-code-bad-code-part-2-name-function-comment.md" >}})
+- **Part 4:** [Writing Clean Code - Part 4 (Identify Code Smells/Bad Code)]({{< ref "blogs/14-clean-code-bad-code-part-4-identify-code-smells.md" >}})
 ---
 
 {{< figure
