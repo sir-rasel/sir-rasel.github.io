@@ -1,6 +1,6 @@
 ---
 title: "Book Review and Takeaways: (Clean Code - A Handbook of Agile Software Craftmanship)"
-description: "Let's learn how can we the code smells or bad code"
+description: "Let's learn how can we write clean code and identify code smells or bad code"
 date: 2025-08-22
 tags: ["programming", "programming-basic", "clean-code-book", "book-review"]
 draft: false
