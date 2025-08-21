@@ -1,6 +1,6 @@
 ---
 title: "Writing Clean Code - Part 4 (Identify Code Smells/Bad Code)"
-description: "Let's learn how can we the code smells or bad code"
+description: "Let's learn how can we identify code smells or bad code"
 date: 2025-08-21
 tags: ["programming", "programming-basic", "clean-code", "code-smell", "bad-smell"]
 draft: false
