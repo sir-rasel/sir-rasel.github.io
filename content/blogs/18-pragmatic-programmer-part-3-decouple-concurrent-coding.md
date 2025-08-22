@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
 title: "Becoming a Pragmatic (Better) Programmer - Part 3 (Decouple, Concurrent Coding, Project & Team)"
-=======
-title: "Becoming a Pragmatic (Better) Programmer - Part 3 (Decouple, Concurrent, Coding)"
->>>>>>> 2ae32ea (Add 18th post)
 description: "Tips for becoming or improving as a better programmer"
 date: 2025-08-25
 tags: ["programming", "coding", "pragmatic-programmer", "decouple-concurrent-coding"]
