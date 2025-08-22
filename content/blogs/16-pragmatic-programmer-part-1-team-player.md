@@ -24,6 +24,11 @@ cover:
     hidden: true
 ---
 
+---
+### Other Parts of This Series:
+- **Part 2:** [Becoming a Pragmatic (Better) Programmer - Part 2 (Design, Implement, Debug)]({{< ref "blogs/17-pragmatic-programmer-part-2-code-debug.md" >}})
+---
+
 {{< figure
     src="/img/blogs/16-pragmatic-team-player.png"
     caption="Pragmatic Programmer (Photo Credit: Unsplash)"
