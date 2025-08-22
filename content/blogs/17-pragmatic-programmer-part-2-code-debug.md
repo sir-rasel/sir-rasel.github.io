@@ -27,7 +27,11 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 1:** [Becoming a Pragmatic (Better) Programmer - Part 1 (Intro, Team Player)]({{< ref "blogs/16-pragmatic-programmer-part-1-team-player.md" >}})
+<<<<<<< HEAD
 - **Part 3:** [Becoming a Pragmatic (Better) Programmer - Part 3 (Decouple, Concurrent Coding, Project & Team)]({{< ref "blogs/18-pragmatic-programmer-part-3-decouple-concurrent-coding.md" >}})
+=======
+- **Part 3:** [Becoming a Pragmatic (Better) Programmer - Part 3 (Decouple, Concurrent, Coding)]({{< ref "blogs/18-pragmatic-programmer-part-3-decouple-concurrent-coding.md" >}})
+>>>>>>> 2ae32ea (Add 18th post)
 ---
 
 {{< figure
