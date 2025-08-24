@@ -54,7 +54,7 @@ If you're a CS (Computer Science) or CSE (Computer Science & Engineering) freshe
 
 ***Digital Logic Design***
 - How digital electronics or binary system work?
-- Know about number systems, binary systems, number conversion, ASXII code, and 1's and 2's complements.
+- Know about number systems, binary systems, number conversion, ASCII code, and 1's and 2's complements.
 - Know about Boolean algebra, Boolean functions, and logic gates.
 - Know about code conversion, combinational logic circuits, and multiplexers.
 - Know about registers, counters, sequential logic, flip flops, etc.
@@ -136,7 +136,7 @@ If you're a CS (Computer Science) or CSE (Computer Science & Engineering) freshe
 ***Database Management System***
 - What a database and database management system are?
 - What do relational and non-relational databases mean?
-- What is sSQL, and how do you use it?
+- What is SQL, and how do you use it?
 - Practical query knowledge and administrative knowledge of a DB.
 > **Knowledge:** You should be comfortable with the database query and its use.
 
