@@ -24,6 +24,11 @@ cover:
     hidden: true
 ---
 
+---
+### Other Parts of This Series:
+- **Part 2:** [Refactoring - Part 2 (Techniques for Cleaning Up the Smells)]({{< ref "blogs/21-refactoring-part-2-cleanup-smells.md" >}})
+---
+
 {{< figure
     src="/img/blogs/20-refactoring-principles.png"
     caption="Refactoring Principles"
