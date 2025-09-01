@@ -2,7 +2,7 @@
 title: "Searching Algorithm (Linear Search and Binary Search)"
 description: "Let's learn how can we search effectively from a list of items"
 date: 2025-08-31
-tags: ["programming", "algorithm", "linear-search", "binary-search"]
+tags: ["programming", "algorithm", "linear-search", "binary-search", "problem-solving"]
 draft: false
 showtoc: false
 tocOpen: false
