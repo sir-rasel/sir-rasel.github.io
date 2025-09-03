@@ -2,7 +2,7 @@
 title: "Effective Negotiation and Influence"
 description: "Always think in a win-win way"
 date: 2025-09-03
-tags: ["negotiation", "design", "design-thinking", "innovative-thinking"]
+tags: ["negotiation", "influence", "win-win"]
 draft: false
 showtoc: false
 tocOpen: false
@@ -56,11 +56,11 @@ So these 2 things drive all the human behavior. That is why, when we are going t
 
 ## Tools of Creating Influence Over Someone
 1. Rapport (for long-term changes to happen): Identify the deep wants or disliking of the people, and start pacing and leading.
-2. Use of questions Understand people, and let him know your way by good questions.
+2. Use of questions, understand people, and let him know your way by good questions.
 3. Maintain personal congruency in word, body posture, and everything, every single day.
 4. State management: Manage your own emotions and other things in front of others.
 
-## How to win people to your way of thinking?
+## How To Win People To Your Way of Thinking?
 1. The best way to get the best from an argument is to avoid it.
 2. Never say "you are wrong"; show respect for others' opinions.
 3. Admit your fault or wrong quickly and emphatically.
@@ -71,12 +71,12 @@ So these 2 things drive all the human behavior. That is why, when we are going t
 8. Try honestly to see things from the other person's point of view.
 
 ## Important Negotiation Related Terms
-- **Negotiation position:** It defines the simple statement about what you want.
-- **Negotiation Interests:** It defines the underlying reason for the position.
-- **Negotiation gap:** It is the difference or gap between two parties' wants.
+- **Negotiation Position:** It defines the simple statement about what you want.
+- **Negotiation Interest:** It defines the underlying reason for the position.
+- **Negotiation Gap:** It is the difference or gap between two parties' wants.
 - **BATNA:** Best alternative to negotiated agreement, meaning what is the best alternative if the negotiation ends with no result.
-- **RV (reservation value):** The value of things that are in hand and can be offered for continuing negotiation.
-- **ZOPA (zone of possible agreement):** It is the set of all possible deals that would be acceptable to both parties.
+- **RV (Reservation Value):** The value of things that are in hand and can be offered for continuing negotiation.
+- **ZOPA (Zone of Possible Agreement):** It is the set of all possible deals that would be acceptable to both parties.
 
 ## 6 Steps Preparation for a Successful Negotiation
 1. Research your BATNA and RV and the other party's BATNA and RV and identify the ZOPA.
