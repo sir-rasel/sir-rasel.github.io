@@ -2,7 +2,7 @@
 title: "Let's Feel Programming Fundamentals - Part 5 (Procedural, Functional, OOP Style)"
 description: "You will be a superstar once you begin to feel programming"
 date: 2025-08-11
-tags: ["programming", "programming-basic", "programming-fundamentals", "functional", "procedural", oop", "object-oriented-programming"]
+tags: ["programming", "programming-basic", "programming-fundamentals", "functional", "procedural", "oop", "object-oriented-programming"]
 draft: false
 showtoc: false
 tocOpen: false
