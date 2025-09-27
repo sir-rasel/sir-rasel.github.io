@@ -2,7 +2,7 @@
 title: "Java Crash Course - Part 2 (Fundamental Basics)"
 description: "Let's learn writing program with Java"
 date: 2025-09-27
-tags: ["programming", "language", "java", "crash-course"]
+tags: ["programming", "language", "java", "crash-course", "data-type", "variable", "operator", "condition", "loop", "function"]
 draft: false
 showtoc: false
 tocOpen: false
@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 1:** [Java Crash Course - Part 1 (Before Start)]({{< ref "blogs/30-java-part-1-before-start.md" >}})
+- **Part 3:** [Java Crash Course - Part 3 (Object Oriented Programming)]({{< ref "blogs/32-java-part-3-oop.md" >}})
 ---
 
 {{< figure
