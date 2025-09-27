@@ -24,6 +24,11 @@ cover:
     hidden: true
 ---
 
+---
+### Other Parts of This Series:
+- **Part 2:** [Java Crash Course - Part 2 (Fundamental Basics)]({{< ref "blogs/31-java-part-2-fundamental-basics.md" >}})
+---
+
 {{< figure
     src="/img/blogs/30-java-language.webp"
     caption="Java Programming Language (Photo Credit: Orient Software)"
