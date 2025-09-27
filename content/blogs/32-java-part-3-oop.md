@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 2:** [Java Crash Course - Part 2 (Fundamental Basics)]({{< ref "blogs/31-java-part-2-fundamental-basics.md" >}})
+- **Part 4:** [Java Crash Course - Part 4 (Miscellaneous)]({{< ref "blogs/33-java-part-4-miscellaneous.md" >}})
 ---
 
 {{< figure
