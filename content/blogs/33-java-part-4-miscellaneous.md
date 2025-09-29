@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 3:** [Java Crash Course - Part 3 (Object Oriented Programming)]({{< ref "blogs/32-java-part-3-oop.md" >}})
+- **Part 5:** [Java Crash Course - Part 5 (Thread Programming)]({{< ref "blogs/34-java-part-5-thread-programming.md" >}})
 ---
 
 {{< figure
@@ -181,7 +182,7 @@ abstract class Shape{
 }
 ```
 
-Both interface and abstract class are use for achiving abstraction.
+Both interface and abstract class are use for achieving abstraction.
 
 ### Records:
 Compact immutable data class. Means like object of a class type, record types can't update after declaration.
@@ -193,7 +194,7 @@ Point p = new Point(1,2);
 ```
 
 ### Generics:
-Type-safe reusable classes. Means we can create classes and use it for multple types based on need.
+Type-safe reusable classes. Means we can create classes and use it for multiple types based on need.
 
 Example:
 ```java
