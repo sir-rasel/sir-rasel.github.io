@@ -24,6 +24,11 @@ cover:
     hidden: true
 ---
 
+---
+### Other Parts of This Series:
+- **Part 2:** [Reactive Programming in Java - Part 2 (Thinking In Reactive Way and Reative Operator)]({{< ref "blogs/36-java-reactive-programming-part-2-reactive-thinking.md" >}})
+---
+
 {{< figure
     src="/img/blogs/35-java-reactive-programming.jpg"
     caption="Reactive Programming (Photo Credit: Reactive Programming Book by Sergi Mansilla)"
@@ -112,4 +117,4 @@ So a subscriber does a subscription to a publisher. Then the publisher publishes
 
 ---
 
-*Insha Allah, in the upcoming part, I will try to share the reactor operators and how to think in reactive way. Until than, may Allah keep you healthy and happy.*
+*Insha Allah, in the upcoming part, I will try to share the how to think in reactive way. Until than, may Allah keep you healthy and happy.*
