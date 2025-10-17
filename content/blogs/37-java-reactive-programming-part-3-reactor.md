@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 2:** [Reactive Programming in Java - Part 2 (Thinking In Reactive Way and Reative Operator)]({{< ref "blogs/36-java-reactive-programming-part-2-reactive-thinking.md" >}})
+- **Part 4:** [Reactive Programming in Java - Part 4 (Other Useful Operators)]({{< ref "blogs/38-java-reactive-programming-part-4-other-operators.md" >}})
 ---
 
 {{< figure
