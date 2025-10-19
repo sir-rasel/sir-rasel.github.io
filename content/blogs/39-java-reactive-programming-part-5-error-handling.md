@@ -233,9 +233,9 @@ Flux.just("foo", "bar")
 As we saw, reactive programming is a very good programming paradigm that has a clean functional programming style called "operators" and gives a non-blocking, backpressure, and efficient way of programming. This is a very good choice for large-scale, high-traffic, and large-data applications. To work with reactive programming, we need to grow reactive thinking and a mindset. And we can achieve this thinking capability by deep diving into the details of reactive programming and gathering knowledge.
 
 ### Further Resources:
-- [Project Reactor docs](https://projectreactor.io/docs/core/release/reference/index.html)
-- [How to read marble diagram](https://projectreactor.io/docs/core/release/reference/index.html#howtoReadMarbles)
-- [Which operator do I need](https://projectreactor.io/docs/core/release/reference/index.html#which-operator)
+- [Project Reactor docs](https://projectreactor.io/docs/core/release/reference/gettingStarted.html)
+- [How to read marble diagram](https://projectreactor.io/docs/core/release/reference/apdx-howtoReadMarbles.html#page-title)
+- [Which operator do I need](https://projectreactor.io/docs/core/release/reference/apdx-operatorChoice.html#page-title)
 - [Flux](https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Flux.html)
 - [Mono](https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Mono.html)
 - [Mastering Java Reactive Programming Course](https://www.udemy.com/course/complete-java-reactive-programming/)
