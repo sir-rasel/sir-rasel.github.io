@@ -3,7 +3,6 @@ google.com, pub-7013018037991769, DIRECT, f08c47fec0942fa0
 disqus.com, 5048641, DIRECT
 zetaglobal.net, 100, DIRECT
 aps.amazon.com, 31d3a4c9-a8a6-4ae0-a5ae-d3b0de43284c, RESELLER
-google.com, pub-6650322601660058, RESELLER, f08c47fec0942fa0
 minutemedia.com, 01gcrv9grwe9, RESELLER
 criteo.com, B-060574, DIRECT, 9fac4a4a87c2a44f
 sharethrough.com, 00PriK0o, RESELLER, d53b998a7bd4ecd2

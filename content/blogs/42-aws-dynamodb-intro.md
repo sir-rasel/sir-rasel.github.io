@@ -24,6 +24,11 @@ cover:
     hidden: true
 ---
 
+---
+### Other Parts of This Series:
+- **Part 2:** [AWS DynamoDB, A Key Value Pair Database - Part 2 (Design Patterns and Best Practices)]({{< ref "blogs/43-aws-dynamodb-design-pattern.md" >}})
+---
+
 {{< figure
     src="/img/blogs/42-aws-dynamo-db.png"
     caption="AWS DynamoDB (Photo Credit: AWS)"
@@ -123,6 +128,6 @@ aws dynamodb query --table-name Music --key-conditions file://key-conditions.jso
 
 ---
 
-### References/Sources:
+### References / Sources:
 - [AWS DynamoDB docs](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
 - [Wikipedia](https://en.wikipedia.org/wiki/Amazon_DynamoDB#:~:text=table%20in%20DynamoDB-,Data%20structures,read%20capacity%20units%20(RCU).)
