@@ -24,9 +24,14 @@ cover:
     hidden: true
 ---
 
+---
+### Other Parts of This Series:
+- **Part 1:** [Software Design Patterns and Principles - Part 2 (Classification and Most Used Design Patterns)]({{< ref "blogs/45-design-pattern-principle-classification.md" >}})
+---
+
 {{< figure
     src="/img/blogs/44-design-pattern.jpg"
-    caption="Design Patterns and Principles (Photo Credit: Design Patterns and Principles)"
+    caption="Design Patterns and Principles (Photo Credit: educba.com)"
     align=center
 >}}
 
@@ -60,7 +65,7 @@ Some well-known design patterns are Singleton, Adapter, Mediator, Factory, etc.
 ---
 
 ## Object Oriented Programming (OOP)
-OOP is a programming paradigm of wrapping the real-world data. It meanspacking together the state and behavior of a real-world object. Before understanding the design patterns and principles, everybody must need to know and have a clear understanding of OOP and the pillars of it.
+OOP is a programming paradigm of wrapping the real-world data. It means packing together the state and behavior of a real-world object. Before understanding the design patterns and principles, everybody must need to know and have a clear understanding of OOP and the pillars of it.
 
 I wrote a short brief about the OOP in my [this]({{< ref "blogs/5-lets-feel-programming-part-5-programming-style.md" >}}) and [this]({{< ref "blogs/32-java-part-3-oop.md" >}}) previous post. Please read this before you continue further reading.
 
@@ -102,7 +107,7 @@ Classes should be open for extension but close for modification. It means when y
 ### 6. Don't Repeat Yourself Principle (DRY):
 Avoid duplicate code by abstracting out things that are common and placing them in a single location. It is the most traditional thing to make our code robust and clean. We should always try to identify the common functionality and behavior of our system and place them in a single location so that we can always use them without rewriting again. In that way our code becomes smaller and clean enough and easy to maintain.
 
-### 7. Single Responsibilty Principle (SRP):
+### 7. Single Responsibility Principle (SRP):
 Every object in your system should have a single responsibility, and all the object’s services should be focused on carrying out that single responsibility. It is similar to our previously mentioned principle, which is that our class should have only one reason to change. So when you ensure the class and services are designed for single responsibility, then automatically it ensures it changes only when this single responsibility-related change occurs.
 
 ### 8. Liskov Substitution Principle (LSP):
