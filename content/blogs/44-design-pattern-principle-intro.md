@@ -26,7 +26,7 @@ cover:
 
 ---
 ### Other Parts of This Series:
-- **Part 1:** [Software Design Patterns and Principles - Part 2 (Classification and Most Used Design Patterns)]({{< ref "blogs/45-design-pattern-principle-classification.md" >}})
+- **Part 2:** [Software Design Patterns and Principles - Part 2 (Classification and Most Used Design Patterns)]({{< ref "blogs/45-design-pattern-principle-classification.md" >}})
 ---
 
 {{< figure

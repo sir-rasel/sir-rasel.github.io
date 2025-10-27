@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 1:** [Software Design Patterns and Principles - Part 1 (Introduction)]({{< ref "blogs/44-design-pattern-principle-intro.md" >}})
+- **Part 3:** [Software Design Patterns and Principles - Part 3 (Relations Between Objects and UML Diagram)]({{< ref "blogs/47-objects-relation-and-uml.md" >}})
 ---
 
 {{< figure
