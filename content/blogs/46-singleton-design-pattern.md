@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 3:** [Software Design Patterns and Principles - Part 3 (Relations Between Objects and UML Diagram)]({{< ref "blogs/47-objects-relation-and-uml.md" >}})
+- **Part 5:** [Software Design Patterns and Principles - Part 5 (Factory Method and Abstract Factory Method Design Pattern)]({{< ref "blogs/48-factory-and-abstract-factory-design-pattern.md" >}})
 ---
 
 {{< figure

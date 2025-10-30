@@ -93,7 +93,7 @@ Encapsulate separately what varies and what remains almost unchanged. In that ma
 Suppose you have a class that has some property and methods that remain almost unchanged; on the other hand, this class also has some property and methods that can vary over time. So please separate the varying parts of the class into a separate object, and that gives you easily adopted power over the changes.
 
 ### 2. Interfacing Rather Than Implementing:
-Code to an interface rather than to an implementation. This means when you have a bunch of related methods that can vary in their functionality based on situation and algorithms, then please organize them using an interface rather than direct implementation. In that way you get better flexibility.
+Code to an interface rather than to an implementation. This means when you have a bunch of related methods that can vary in their functionality based on situation and algorithms, then please organize them using an interface rather than direct implementation. In that way you get better flexibility. This is also related to principle named *Dipendency Inversion Principle (DIP)*.
 
 ### 3. Single Reason To Change:
 Each class in your application should have only one reason to change. It means your class should be modular enough and specific enough that you need to change it only for a single reason. If your class needs to change frequently and for more than one reason, then you should consider it to be redesigned because it's not well designed.
@@ -112,6 +112,9 @@ Every object in your system should have a single responsibility, and all the obj
 
 ### 8. Liskov Substitution Principle (LSP):
 Subclasses should be substitutable for their base classes. As we know, subclasses can be assigned to base classes. This principle states that we should design our base class and subclasses so that subclasses can be completely substitutable by the base class. In that way we can make a common and parent-responsible class that can handle all its children all together.
+
+### 9. Interface Segregation Principle (ISP):
+Clients should not be forced to depend on interfaces they do not use. This is achieved by creating smaller, client-specific interfaces instead of one large one, preventing classes from needing to implement irrelevant methods.
 
 ---
 
