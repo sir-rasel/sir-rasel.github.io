@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 5:** [Software Design Patterns and Principles - Part 5 (Factory Method and Abstract Factory Method Design Pattern)]({{< ref "blogs/48-factory-and-abstract-factory-design-pattern.md" >}})
+- **Part 7:** [Software Design Patterns and Principles - Part 7 (Adapter Design Pattern)]({{< ref "blogs/50-adapter-design-pattern.md" >}})
 ---
 
 {{< figure
@@ -65,7 +66,7 @@ From the above definition of the builder pattern, it gives us an object construc
 **UML Diagram**:
 {{< figure
     src="/img/blogs/49-builder-uml.jpeg"
-    caption="Builder Design Pattern (Photo Credit: Google)"
+    caption="UML of Builder Design Pattern (Photo Credit: Google)"
     align=center
 >}}
 
@@ -246,6 +247,7 @@ public class TestBuilderPattern {
 
 }
 ```
+
 For small and single variation object, it can be feel as over engineering but for big and with lots of variation of a object builder pattern is a very handy tool.
 
 ---
