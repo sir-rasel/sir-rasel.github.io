@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 4:** [Software Design Patterns and Principles - Part 4 (Singleton Design Pattern)]({{< ref "blogs/46-singleton-design-pattern.md" >}})
+- **Part 6:** [Software Design Patterns and Principles - Part 6 (Builder Design Pattern)]({{< ref "blogs/49-builder-design-pattern.md" >}})
 ---
 
 {{< figure
