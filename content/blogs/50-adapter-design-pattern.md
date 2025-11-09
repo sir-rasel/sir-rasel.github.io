@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 6:** [Software Design Patterns and Principles - Part 6 (Builder Design Pattern)]({{< ref "blogs/49-builder-design-pattern.md" >}})
+- **Part 8:** [Software Design Patterns and Principles - Part 8 (Decorator Design Pattern)]({{< ref "blogs/51-decorator-design-pattern.md" >}})
 ---
 
 {{< figure
