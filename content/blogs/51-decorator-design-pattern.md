@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 7:** [Software Design Patterns and Principles - Part 7 (Adapter Design Pattern)]({{< ref "blogs/50-adapter-design-pattern.md" >}})
+- **Part 9:** [Software Design Patterns and Principles - Part 9 (Composite Design Pattern)]({{< ref "blogs/52-composite-design-pattern.md" >}})
 ---
 
 {{< figure
