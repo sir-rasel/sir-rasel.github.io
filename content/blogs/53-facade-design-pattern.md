@@ -17,9 +17,9 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowCodeCopyButtons: true
 cover:
-    image: "img/blogs/52-composite.png"
-    caption: "Composite Design Pattern"
-    alt: "Composite Design Pattern"
+    image: "img/blogs/53-facade.png"
+    caption: "Facade Design Pattern"
+    alt: "Facade Design Pattern"
     relative: true
     hidden: true
 ---
@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 9:** [Software Design Patterns and Principles - Part 9 (Composite Design Pattern)]({{< ref "blogs/52-composite-design-pattern.md" >}})
+- **Part 11:** [Software Design Patterns and Principles - Part 11 (Proxy Design Pattern)]({{< ref "blogs/54-proxy-design-pattern.md" >}})
 ---
 
 {{< figure
