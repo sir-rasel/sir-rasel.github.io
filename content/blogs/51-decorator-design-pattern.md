@@ -1,6 +1,6 @@
 ---
 title: "Software Design Patterns and Principles - Part 8 (Decorator Design Pattern)"
-description: "Let's learn the software and oop design patterns and principles!"
+description: "Let's learn the software and OOP design patterns and principles!"
 date: "2025-11-08"
 tags: ["design-pattern", "design-principle", "oop-design-pattern", "oop-design-principle", "software-design-pattern", "decorator-design-pattern"]
 draft: false

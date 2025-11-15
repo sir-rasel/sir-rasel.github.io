@@ -1,6 +1,6 @@
 ---
 title: "Software Design Patterns and Principles - Part 2 (Classification and Most Used Design Patterns)"
-description: "Let's learn the software and oop design patterns and principles!"
+description: "Let's learn the software and OOP design patterns and principles!"
 date: 2025-10-27
 tags: ["design-pattern", "design-principle", "oop-design-pattern", "oop-design-principle", "software-design-pattern"]
 draft: false

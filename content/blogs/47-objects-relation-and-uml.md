@@ -1,6 +1,6 @@
 ---
 title: "Software Design Patterns and Principles - Part 3 (Relations Between Objects and UML Diagram)"
-description: "Let's learn the software and oop design patterns and principles!"
+description: "Let's learn the software and OOP design patterns and principles!"
 date: 2025-10-28
 tags: ["design-pattern", "design-principle", "oop-design-pattern", "oop-design-principle", "software-design-pattern", "uml-diagram"]
 draft: false

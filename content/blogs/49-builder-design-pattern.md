@@ -1,6 +1,6 @@
 ---
 title: "Software Design Patterns and Principles - Part 6 (Builder Design Pattern)"
-description: "Let's learn the software and oop design patterns and principles!"
+description: "Let's learn the software and OOP design patterns and principles!"
 date: 2025-11-05
 tags: ["design-pattern", "design-principle", "oop-design-pattern", "oop-design-principle", "software-design-pattern", "builder-design-pattern"]
 draft: false

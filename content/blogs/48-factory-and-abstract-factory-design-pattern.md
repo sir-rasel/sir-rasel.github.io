@@ -1,6 +1,6 @@
 ---
 title: "Software Design Patterns and Principles - Part 5 (Factory Method and Abstract Factory Method Design Pattern)"
-description: "Let's learn the software and oop design patterns and principles!"
+description: "Let's learn the software and OOP design patterns and principles!"
 date: 2025-10-30
 tags: ["design-pattern", "design-principle", "oop-design-pattern", "oop-design-principle", "software-design-pattern", "factory-design-pattern", "abstract-factory-design-pattern"]
 draft: false

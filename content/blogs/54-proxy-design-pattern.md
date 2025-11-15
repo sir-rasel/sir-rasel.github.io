@@ -1,6 +1,6 @@
 ---
 title: "Software Design Patterns and Principles - Part 11 (Proxy Design Pattern)"
-description: "Let's learn the software and oop design patterns and principles!"
+description: "Let's learn the software and OOP design patterns and principles!"
 date: "2025-11-14T03:00:00Z"
 tags: ["design-pattern", "design-principle", "oop-design-pattern", "oop-design-principle", "software-design-pattern", "proxy-design-pattern"]
 draft: false
@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 10:** [Software Design Patterns and Principles - Part 10 (Facade Design Pattern)]({{< ref "blogs/53-facade-design-pattern.md" >}})
+- **Part 12:** [Software Design Patterns and Principles - Part 12 (Command Design Pattern)]({{< ref "blogs/55-command-design-pattern.md" >}})
 ---
 
 {{< figure
