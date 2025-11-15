@@ -45,7 +45,7 @@ So let's get started...
 ## Story
 Samiul and Ruhul are two close friends. Samiul looks handsome and dashing. On the other hand, Ruhul looks black and fatty. But Ruhul has an online girlfriend. He is very romantic; they chat every day. They have a very good relationship online. But one day the girl wants to meet face-to-face. In this scenario, Ruhul is in very deep tension because he doesn't have enough confidence due to his look. So he decided to send his close and dashing friend Samiul as his proxy.
 
-## Facade Design Pattern
+## Proxy Design Pattern
 **Definition**:
 > Proxy is a structural design pattern that lets you provide a substitute or placeholder for another object. A proxy controls access to the original object, allowing you to perform something either before or after the request gets through to the original object.
 

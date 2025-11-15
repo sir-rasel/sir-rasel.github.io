@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 11:** [Software Design Patterns and Principles - Part 11 (Proxy Design Pattern)]({{< ref "blogs/54-proxy-design-pattern.md" >}})
+- **Part 13:** [Software Design Patterns and Principles - Part 13 (Mediator Design Pattern)]({{< ref "blogs/56-mediator-design-pattern.md" >}})
 ---
 
 {{< figure
@@ -52,7 +53,7 @@ The Refactoring Guru website gives very nice real-world analogies, like:
 
 After a long walk through the city, you get to a nice restaurant and sit at the table by the window. A friendly waiter approaches you and quickly takes your order, writing it down on a piece of paper. The waiter goes to the kitchen and sticks the order on the wall. After a while, the order gets to the chef, who reads it and cooks the meal accordingly. The cook places the meal on a tray along with the order. The waiter discovers the tray, checks the order to make sure everything is as you wanted it, and brings everything to your table.
 
-## Facade Design Pattern
+## Command Design Pattern
 **Definition**:
 > Command is a behavioral design pattern that turns a request into a stand-alone object that contains all information about the request. This transformation lets you pass requests as method arguments, delay or queue a request’s execution, and support undoable operations.
 
