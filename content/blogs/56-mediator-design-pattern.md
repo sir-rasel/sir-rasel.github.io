@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 12:** [Software Design Patterns and Principles - Part 12 (Command Design Pattern)]({{< ref "blogs/55-command-design-pattern.md" >}})
+- **Part 14:** [Software Design Patterns and Principles - Part 14 (Observer Design Pattern)]({{< ref "blogs/57-observer-design-pattern.md" >}})
 ---
 
 {{< figure
