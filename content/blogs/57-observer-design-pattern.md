@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 13:** [Software Design Patterns and Principles - Part 13 (Mediator Design Pattern)]({{< ref "blogs/56-mediator-design-pattern.md" >}})
+- **Part 15:** [Software Design Patterns and Principles - Part 15 (Strategy Design Pattern)]({{< ref "blogs/58-strategy-design-pattern.md" >}})
 ---
 
 {{< figure
