@@ -49,7 +49,7 @@ Samiul and Ruhul are two close friends. Samiul looks handsome and dashing. On th
 **Definition**:
 > Proxy is a structural design pattern that lets you provide a substitute or placeholder for another object. A proxy controls access to the original object, allowing you to perform something either before or after the request gets through to the original object.
 
-As the definition states, the proxy design pattern suggests a middlemanapproach. It means introducing a substitute for the real one and doing some sanity checks and functionality before the real one and much more. The main goal is to reduce the load and secure the main/original object.
+As the definition states, the proxy design pattern suggests a middleman approach. It means introducing a substitute for the real one and doing some sanity checks and functionality before the real one and much more. The main goal is to reduce the load and secure the main/original object.
 
 **Problem**:
 

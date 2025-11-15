@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 14:** [Software Design Patterns and Principles - Part 14 (Observer Design Pattern)]({{< ref "blogs/57-observer-design-pattern.md" >}})
+- **Part 16:** [Software Design Patterns and Principles - Part 16 (Template Method Design Pattern)]({{< ref "blogs/59-template-method-design-pattern.md" >}})
 ---
 
 {{< figure
