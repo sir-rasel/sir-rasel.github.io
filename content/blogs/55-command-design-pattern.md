@@ -45,7 +45,7 @@ So let's get started...
 ## Story
 {{< figure
     src="/img/blogs/55-command-story.png"
-    caption="UML of Command Design Pattern (Photo Credit: Refactoring.guru)"
+    caption="Command Design Pattern (Photo Credit: Refactoring.guru)"
     align=center
 >}}
 
