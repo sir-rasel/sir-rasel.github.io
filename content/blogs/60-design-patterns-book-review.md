@@ -2,7 +2,7 @@
 title: "Book Review and Insights Learning: (Head First Design Pattern + Dive Into Design Pattern)"
 description: "Let's learn the software and OOP design patterns and principles!"
 date: 2025-11-16
-tags: ["think-like-a-programmer", "head-first-design-pattern-programmer-book", "dive-into-design-pattern-programmer-book", "book-review"]
+tags: ["head-first-design-pattern-programmer-book", "dive-into-design-pattern-programmer-book", "book-review"]
 draft: false
 showtoc: false
 tocOpen: false
