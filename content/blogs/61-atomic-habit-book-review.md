@@ -1,6 +1,6 @@
 ---
 title: "Book Review and Insights Learning: (Atomic Habits)"
-description: "Let's learn the software and OOP design patterns and principles!"
+description: "Let's learn how to build good habits!"
 date: 2025-11-24
 tags: ["atomic-habit-book", "book-review"]
 draft: false

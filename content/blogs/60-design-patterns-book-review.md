@@ -25,7 +25,7 @@ cover:
 ---
 
 ---
-### Detailed Pragmatic Programmer Tips Series:
+### Detailed Design Patterns Series:
 - **Part 1:** [Software Design Patterns and Principles - Part 1 (Introduction)]({{< ref "blogs/44-design-pattern-principle-intro.md" >}})
 ---
 
@@ -84,6 +84,7 @@ Choosing the correct design pattern in software engineering is critical to pract
 5. Builder: Constructs complex objects step by step.
 
 **Object Assembly/Structuring → Structural Patterns:**
+
 6. Adapter: Bridges incompatible interfaces.
 7. Bridge: Separates abstraction from implementation.
 8. Composite: Treats single and composite objects uniformly.
@@ -93,6 +94,7 @@ Choosing the correct design pattern in software engineering is critical to pract
 12. Proxy: Controls object access.
 
 **Object Interactions/Behavior → Behavioral Patterns:**
+
 13. Observer: Notifies changes to multiple objects.
 14. Strategy: Encapsulates interchangeable algorithms.
 15. Command: Encapsulates a request as an object.
@@ -105,4 +107,4 @@ Choosing the correct design pattern in software engineering is critical to pract
 22. Template Method: Defines the skeleton of an algorithm.
 
 ## Conclusion
-A design pattern is nothing but the common, well-known solution to a well-known situation in our day-to-day software development. These 2 books are very good for making your understanding about the design pattern from beginner to intermediate (with advanced experience also) level. But as you know, design pattern is not a straightforwardthing and not so easy to understand; we should feel them and use them wisely in appropriate places only when needed.
+A design pattern is nothing but the common, well-known solution to a well-known situation in our day-to-day software development. These 2 books are very good for making your understanding about the design pattern from beginner to intermediate (with advanced experience also) level. But as you know, design pattern is not a straightforward thing and not so easy to understand; we should feel them and use them wisely in appropriate places only when needed.
