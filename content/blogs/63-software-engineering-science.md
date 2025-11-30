@@ -24,6 +24,11 @@ cover:
     hidden: true
 ---
 
+---
+### Other Parts of This Series:
+- **Part 2:** [All About Software Engineering: Part 2 (Software Development Life Cycle (SDLC) and Process Models)]({{< ref "blogs/64-software-engineering-sdlc.md" >}})
+---
+
 {{< figure
     src="/img/blogs/63-software-engineering.png"
     caption="Software Engineering (Photo Credit: Freepik)"
