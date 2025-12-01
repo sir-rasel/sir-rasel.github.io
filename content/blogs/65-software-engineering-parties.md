@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 2:** [All About Software Engineering: Part 2 (Software Development Life Cycle (SDLC) and Process Models)]({{< ref "blogs/64-software-engineering-sdlc.md" >}})
+- **Part 4:** [All About Software Engineering: Part 4 (Challenges in Modern Software Engineering)]({{< ref "blogs/66-software-engineering-challenges.md" >}})
 ---
 
 {{< figure
