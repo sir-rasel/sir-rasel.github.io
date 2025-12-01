@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 1:** [All About Software Engineering: Part 1 (Science, Engineering and Mindset Part)]({{< ref "blogs/63-software-engineering-science.md" >}})
+- **Part 3:** [All About Software Engineering: Part 3 (Involved Parties At Different Stages Of SDLC)]({{< ref "blogs/65-software-engineering-parties.md" >}})
 ---
 
 {{< figure
