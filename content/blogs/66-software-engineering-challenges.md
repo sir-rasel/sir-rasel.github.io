@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 3:** [All About Software Engineering: Part 3 (Involved Parties At Different Stages Of SDLC)]({{< ref "blogs/65-software-engineering-parties.md" >}})
+- **Part 5:** [All About Software Engineering: Part 5 (Possible Solutions for Most Faced Software Engineering Challenges)]({{< ref "blogs/67-software-engineering-solutions.md" >}})
 ---
 
 {{< figure
@@ -101,6 +102,11 @@ Modern software engineering is a complex and dynamic field, presenting various c
 ### Tradeoff Decision
 - **Cost vs. performance tradeoff**: Sometimes we need to balance between cost and performance.
 - **Deadline vs. best practice tradeoff**: Sometimes for a hard deadline, we face some situations when we need to sacrifice the best practices.
+
+### AI Wave
+- **AI tools adaptation, new workflows**: AI tools require teams to adapt to new workflows and development practices.
+- **Quality, security risks and ethical**: AI introduces significant quality, security, and ethical risks in software development.
+- **Lack of skills, operational and industry standards**: AI exposes gaps in skills, operations, and industry standards needed for reliable adoption.
 
 And more. There are lots of other problems associated with modern software engineering.
 
