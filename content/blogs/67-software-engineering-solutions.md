@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 4:** [All About Software Engineering: Part 4 (Challenges in Modern Software Engineering)]({{< ref "blogs/66-software-engineering-challenges.md" >}})
+- **Part 6:** [All About Software Engineering: Part 6 (Sum-up : Be an Effective Software Engineer)]({{< ref "blogs/68-software-engineering-engineer.md" >}})
 ---
 
 {{< figure
