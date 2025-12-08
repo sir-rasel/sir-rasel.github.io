@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 5:** [All About Software Engineering: Part 5 (Possible Solutions for Most Faced Software Engineering Challenges)]({{< ref "blogs/67-software-engineering-solutions.md" >}})
+- **Part 7:** [All About Software Engineering: Part 7 (Navigate Software Engineer's Career Path - Entry Level To Staff+)]({{< ref "blogs/69-navigate-software-engineers-career-path.md" >}})
 ---
 
 {{< figure
