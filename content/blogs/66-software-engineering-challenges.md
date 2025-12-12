@@ -1,6 +1,6 @@
 ---
 title: "All About Software Engineering: Part 4 (Challenges in Modern Software Engineering)"
-description: "Let's learn the software engnieering differently!"
+description: "Let's learn the software engineering differently!"
 date: "2025-12-01T01:00:00Z"
 tags: ["software-engineering"]
 draft: false

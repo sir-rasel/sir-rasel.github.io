@@ -1,6 +1,6 @@
 ---
 title: "Book Review and Insights Learning: (Soft Skills: The Software Developer's Life Manual)"
-description: "Let's learn the soft skills need for software engnieer!"
+description: "Let's learn the soft skills need for software engineer!"
 date: "2025-12-06T01:00:00Z"
 tags: ["soft-skills-book" , "book-review"]
 draft: false

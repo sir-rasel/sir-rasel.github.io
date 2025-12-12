@@ -1,6 +1,6 @@
 ---
 title: "All About Software Engineering: Part 2 (Software Development Life Cycle (SDLC) and Process Models)"
-description: "Let's learn the software engnieering differently!"
+description: "Let's learn the software engineering differently!"
 date: "2025-11-30T01:00:00Z"
 tags: ["software-engineering", "SDLC"]
 draft: false
@@ -36,7 +36,7 @@ cover:
     align=center
 >}}
 
-In this series, we try to explore software engineering in a modern way. We will try to learn the different software engineering aspects one by one. In this part, we try to explore the software develpment life cycle (SDLC).
+In this series, we try to explore software engineering in a modern way. We will try to learn the different software engineering aspects one by one. In this part, we try to explore the software development life cycle (SDLC).
 
 So let's get started...
 

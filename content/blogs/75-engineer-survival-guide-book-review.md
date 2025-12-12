@@ -1,6 +1,6 @@
 ---
 title: "Book Review and Insights Learning: (Engineers' Survival Guide: Advice, Tactics and Tricks)"
-description: "Let's learn the software engnieering differently!"
+description: "Let's learn the software engineering differently!"
 date: "2025-12-05T15:00:00Z"
 tags: ["engineer-survival-guide-book" , "book-review"]
 draft: false

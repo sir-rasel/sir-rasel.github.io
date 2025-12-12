@@ -1,6 +1,6 @@
 ---
 title: "All About Software Engineering: Part 6 (Sum-up : Be an Effective Software Engineer)"
-description: "Let's learn the software engnieering differently!"
+description: "Let's learn the software engineering differently!"
 date: "2025-12-01T16:00:00Z"
 tags: ["software-engineering"]
 draft: false

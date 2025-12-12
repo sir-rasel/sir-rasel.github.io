@@ -1,6 +1,6 @@
 ---
 title: "Book Review and Insights Learning: (Modern Software Engineering + Software Engineering)"
-description: "Let's learn the software engnieering differently!"
+description: "Let's learn the software engineering differently!"
 date: "2025-12-02"
 tags: ["modern-software-engineering-book", "software-engineering-book" , "book-review"]
 draft: false

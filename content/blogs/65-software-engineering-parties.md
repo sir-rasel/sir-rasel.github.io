@@ -1,6 +1,6 @@
 ---
 title: "All About Software Engineering: Part 3 (Involved Parties at Different Stages of SDLC)"
-description: "Let's learn the software engnieering differently!"
+description: "Let's learn the software engineering differently!"
 date: "2025-12-01T00:00:00Z"
 tags: ["software-engineering"]
 draft: false
@@ -36,7 +36,7 @@ cover:
     align=center
 >}}
 
-In this series, we try to explore software engineering in a modern way. We will try to learn the different software engineering aspects one by one. In this part, we try to explore the different parties involved at software develpment life cycle (SDLC).
+In this series, we try to explore software engineering in a modern way. We will try to learn the different software engineering aspects one by one. In this part, we try to explore the different parties involved at software development life cycle (SDLC).
 
 So let's get started...
 

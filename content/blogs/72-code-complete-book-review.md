@@ -1,6 +1,6 @@
 ---
 title: "Book Review and Insights Learning: (Code Complete)"
-description: "Let's learn the software engnieering differently!"
+description: "Let's learn the software engineering differently!"
 date: "2025-12-04"
 tags: ["code-complete-book", "book-review"]
 draft: false

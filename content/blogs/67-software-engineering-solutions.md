@@ -1,6 +1,6 @@
 ---
 title: "All About Software Engineering: Part 5 (Possible Solutions for Most Faced Software Engineering Challenges)"
-description: "Let's learn the software engnieering differently!"
+description: "Let's learn the software engineering differently!"
 date: "2025-12-01T15:00:00Z"
 tags: ["software-engineering"]
 draft: false

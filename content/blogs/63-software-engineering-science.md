@@ -1,6 +1,6 @@
 ---
 title: "All About Software Engineering: Part 1 (Science, Engineering and Mindset Part)"
-description: "Let's learn the software engnieering differently!"
+description: "Let's learn the software engineering differently!"
 date: "2025-11-30T00:00:00Z"
 tags: ["software-engineering"]
 draft: false

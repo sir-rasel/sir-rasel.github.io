@@ -1,6 +1,6 @@
 ---
 title: "Book Review and Insights Learning: (The Philosophy of Software Design)"
-description: "Let's learn the software engnieering differently!"
+description: "Let's learn the software engineering differently!"
 date: "2025-12-05"
 tags: ["philosophy-software-design-book" , "book-review"]
 draft: false

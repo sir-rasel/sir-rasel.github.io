@@ -1,6 +1,6 @@
 ---
 title: "Book Review and Insights Learning: (Software Engineering at Google)"
-description: "Let's learn the software engnieering differently!"
+description: "Let's learn the software engineering differently!"
 date: "2025-12-03"
 tags: ["software-engineering-at-google-book", "book-review"]
 draft: false
