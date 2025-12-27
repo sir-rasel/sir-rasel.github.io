@@ -173,4 +173,4 @@ Transmission media, including twisted pair cables, coaxial cables, fiber optics,
 
 ---
 
-*In the next part, we will try to explore how data moves through the internet using a structured framework called the **OSI** model and the **TCP/IP** model.*
+*In the next part, insha Allah, we will try to explore how data moves through the internet using a structured framework called the **OSI** model and the **TCP/IP** model.*

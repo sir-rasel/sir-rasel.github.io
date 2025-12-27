@@ -1,7 +1,7 @@
 ---
 title: "Fundamental of Computer Networking and Data Communication : Part 2 (How Data Moves Through the Internet)"
 description: "Let's learn the fundamentals of networking and data communication!"
-date: "2025-12-27T00:00:00Z"
+date: "2025-12-27T01:00:00Z"
 tags: ["computer-networking", "data-communication"]
 draft: false
 showtoc: false
@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 1:** [Fundamental of Computer Networking and Data Communication : Part 1 (Backbone Basic Terms Everybody Should Know)]({{< ref "blogs/78-computer-networking-intro.md" >}})
+- **Part 3:** [Fundamental of Computer Networking and Data Communication : Part 3 (Important Protocols and How They Work)]({{< ref "blogs/80-computer-networking-protocols.md" >}})
 ---
 
 {{< figure
