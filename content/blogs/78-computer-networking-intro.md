@@ -24,6 +24,11 @@ cover:
     hidden: true
 ---
 
+---
+### Other Parts of This Series:
+- **Part 2:** [Fundamental of Computer Networking and Data Communication : Part 2 (How Data Moves Through the Internet)]({{< ref "blogs/79-computer-networking-data-movement-osi.md" >}})
+---
+
 {{< figure
     src="/img/blogs/78-networking-basic.png"
     caption="Computer Networking and Data Communication (Photo Credit: LinkedIn Image)"

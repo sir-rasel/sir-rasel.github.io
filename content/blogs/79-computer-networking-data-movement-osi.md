@@ -1,5 +1,5 @@
 ---
-title: "Fundamental of Computer Networking and Data Communication : Part 1 (Backbone Basic Terms Everybody Should Know)"
+title: "Fundamental of Computer Networking and Data Communication : Part 2 (How Data Moves Through the Internet)"
 description: "Let's learn the fundamentals of networking and data communication!"
 date: "2025-12-27T00:00:00Z"
 tags: ["computer-networking", "data-communication"]
@@ -17,155 +17,197 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowCodeCopyButtons: true
 cover:
-    image: "img/blogs/79-networking-basic.png"
-    caption: "Computer Networking and Data Communication"
-    alt: "Computer Networking and Data Communication"
+    image: "img/blogs/79-data-flow.gif"
+    caption: "Data Movement Through The Internet"
+    alt: "Data Movement Through The Internet"
     relative: true
     hidden: true
 ---
 
+---
+### Other Parts of This Series:
+- **Part 1:** [Fundamental of Computer Networking and Data Communication : Part 1 (Backbone Basic Terms Everybody Should Know)]({{< ref "blogs/78-computer-networking-intro.md" >}})
+---
+
 {{< figure
-    src="/img/blogs/79-networking-basic.png"
-    caption="Computer Networking and Data Communication (Photo Credit: LinkedIn Image)"
+    src="/img/blogs/79-data-flow.gif"
+    caption="Data Movement Through The Internet (Photo Credit: practicalnetworking.net)"
     align=center
 >}}
 
-In this series, we try to explore the fundamentals of computer networking and data communication. We will try to learn the different computer networking and data communication aspects one by one. In this part, we try to explore the backbone basic terms that everybody should know.
+In this series, we try to explore the fundamentals of computer networking and data communication. We will try to learn the different computer networking and data communication aspects one by one. In this part, we try to explore how data moves through the internet. We will try to understand the overall concept using 2 analogy.
 
 So let's get started...
 
 ---
 
-## Story
-Rasel heard and saw network engineering a lot more times when exploring and studying computer scince specially in DevOps. He began to realize that practically every tool used in data communication had some sort of connection to networking. Rasel therefore made a decision to understand the significance and essence of networking before moving forward, and he took action accordingly.
+## Story 1:
+Once upon a time, there were two powerful empires, the Ottoman Empire and the Mongol Empire. They frequently sent letters to pass news and data. As those letters were very confidential and important, they maintained a secure process for sending the letters from one palace to another. Here's how they did it:
+1. First, the Ottoman king wrote/generated the content of the letter.
+2. Then he asked his minister to take further actions. The minister changed the content to the Mongol's understandable language, encrypted the letter, and compressed it. Then he passed the encrypted letter to his secretary for further action.
+3. The secretary called the Mongol palace's secretary and informed them that they were going to send a very important letter. Once they received it, they were requested to insure it. So, they created a session.
+4. After that, the secretary of the Ottoman palace called the coordinator and instructed him to take further action. The coordinator segmented the letter into smaller chunks and assigned a sequence number to each chunk.
+5. Then he gave the smaller chunks to the transport officer, who converted them into packets by adding the Mongol palace's address.
+6. Next, the transport officer gave the packets to the network officer to send them to the Mongol palace by routing them into the best possible and fastest routes.
+7. One of the data officers of the Mongol palace received the packets and added a uniquely identifiable address to each packet and made them frames. Then, he passed them to the Mongol king's personal assistant.
+8. Finally, the Mongol king received the letter, and the secretary of the Mongol palace assured the secretary of the Ottoman palace that they received the letter and the session was completed.
+
+In this story, we can see how a secure process was used for sending a confidential letter from the Ottoman place to the Mongol place.
+
+## OSI Model:
+The **OSI** model (Open Systems Interconnection model) is a conceptual framework used to describe the functions of a networking system. It consists of seven layers that define how data is transmitted over a network. Each layer provides a specific service that is independent of the others, and they work together to ensure that data is transmitted correctly and efficiently.
+
+## Layers of the OSI Model:
+The data transmission process from source to destination can be drawn by mentioning the layers of the OSI model. The data transmission process can be broken down into several steps, each of which involves one or more layers of the OSI model:
+
+### 1. Application layer (Layer 7): 
+The data transmission process begins with an application, such as a web browser, email client, or file transfer protocol (FTP) client, that generates data to be transmitted. The application layer prepares the data for transmission by encapsulating it in the appropriate protocol format.
+
+For example, when you use a web browser to visit a website, the browser sends a request to the web server using the HTTP (Hypertext Transfer Protocol) protocol. The request typically includes the URL (Uniform Resource Locator) of the website you want to visit.
+
+In the above story, the Ottoman king's letter is the application layer content.
+
+### 2. Presentation layer (Layer 6): 
+The presentation layer is responsible for data translation and encryption. It takes the data from the application layer and converts it into a format that can be understood by the receiving application. It also encrypts the data to ensure that it is secure during transmission.
+
+For example, if the web browser is sending data in the form of a webpage, the presentation layer may convert the webpage into HTML (Hypertext Markup Language) format, which is a standardized format for creating webpages.
+
+In the above story, the minister performs the presentation layer's responsibility.
+
+### 3. Session layer (Layer 5): 
+The session layer manages the communication between applications by establishing, maintaining, and terminating sessions. It allows multiple applications to share the same network connection.
+
+For example, when you visit a website, the session layer establishes a session between your web browser and the web server. The session allows data to be transmitted between the two applications without interference from other applications on the network.
+
+In the above story, the secretary performs the session layer responsibility.
+
+### 4. Transport layer (Layer 4): 
+The transport layer provides end-to-end communication between applications on different devices. It ensures that data is transmitted reliably and efficiently by breaking it up into smaller segments and reassembling them at the receiving end. It also provides error correction and flow control.
+
+For example, the transport layer may break the data into smaller segments, add sequence numbers to the segments, and ensure that they are sent in the correct order. If a segment is lost during transmission, the transport layer can request that the segment be retransmitted.
+
+In the above story, the coordinator performs the transport layer work.
+
+### 5. Network layer (Layer 3): 
+The network layer is responsible for the routing of data across multiple networks. It decides the best route for data to take based on the destination address and network conditions. Here segments are converted into packets by adding IP addresses.
+
+For example, if you are sending data from your computer to a web server in another country, the network layer may route the data through multiple networks to reach its destination.
+
+In the above story, the network officer performs the network layer responsibility.
+
+### 6. Data link layer (Layer 2): 
+The data link layer is responsible for the reliable transmission of data between two nodes on the same network. It ensures that data is transmitted without errors, and it provides error correction and flow control. Here packets are converted to the frame by adding the MAC address with the packets.
+
+For example, the data link layer may use protocols such as Ethernet or Wi-Fi to transmit the data over the network.
+
+In the above story, the data officer performs the data link layer's responsibility.
+
+### 7. Physical layer (Layer 1): 
+The physical layer deals with the physical transmission of data over the network, such as the cables, connectors, and other hardware. It defines the electrical and physical characteristics of the transmission medium, such as how data is transmitted and received. Here, a frame becomes a bit for transmission through the media.
+
+For example, the physical layer may use copper or fiber-optic cables to transmit the data, or it may use wireless transmission methods such as radio waves or infrared signals.
+
+In the above story, the Mongol king and his minister are part of the physical layer.
 
 ---
 
-## Networking:
-**Networking** is nothing but a collection of devices (computers, servers, routers, switches) connected to share data. So the main purpose of networking is: connect devices (computers, servers, routers, switches) so that they can share resources and information. 
+## Story 2:
+Once upon a time in a bustling digital city, there were two computers — let's call them **Computer-A** and **Computer-B** — and they lived in different locations. Inside the Computer-A, there was some data in an email format. Let's call the data **Data-D**.
 
-Networking encompasses the design, implementation, and management of network infrastructure, which includes hardware (like routers, switches, and cabling) and software (such as network protocols and operating systems).
+**Step 1**: One day Computer-A wanted to send the Data-D to Computer-B. Now to do so, Data-D needs the address of both computers; otherwise, there is a chance to lose the Data-D. So Data-D started his journey by resolving the **source** (where she came from) and **destination** (where she needed to go) computer address.
 
-## Data Communication:
-**Data Communication** refers to the process of transmitting data between two or more devices. It involves the exchange of data through a transmission medium (wired or wireless) and ensures that the data is correctly received and understood by the receiving device.
+**Step 2**: Computer-A couldn't send Data-D directly to her destination. Instead, Data-D first had to visit a **neighborhood**. This neighborhood acted like a local post office. It checked Data-D's destination address and decided the best path for her to take.
 
----
+**Step 3**: The neighborhood sent Data-D onto a super-fast highway **connecting cities** around the world. As Data-D traveled along this highway, she met **other neighbors** at various intersections. Each neighbor examined Data-D's address and forwarded her closer to her destination.
 
-## Types of Networks
-Based on the size and the area, computer networks can be classified into the following types:
+**Step 4**: Along the way, Data-D met **other friends** from different parts of the world. They all traveled together, guided by a special **formula**. This formula helped Data-D by ensuring she didn't get lost and that she arrived safely and in the correct order with her fellow friends.
 
-{{< figure
-    src="/img/blogs/79-network-type.jfif"
-    caption="Types of Network (Photo Credit: LightOptics)"
-    align=center
->}}
+**Step 5**: After a long journey, Data-D finally reached her destination, Computer-B. The Computer-B, eagerly waiting for Data-D, received her along with her fellow friends.
 
-- **LAN (Local Area Network)**: A network that spans a small geographical area, such as a single building or campus, allowing devices within close proximity to connect and share resources.
-- **WAN (Wide Area Network)**: A network that covers a large geographical area, often consisting of multiple LANs connected together. The internet is the largest WAN.
-- **MAN (Metropolitan Area Network)**: A network that spans a city or metropolitan area, larger than a LAN but smaller than a WAN.
-- **PAN (Personal Area Network)**: A network for personal devices, typically within a range of a few meters, such as connecting a smartphone to a computer via Bluetooth.
-- **SAN (Storage Area Network)**: A specialized network that provides access to consolidated data storage, primarily used in data centers.
-- **Wireless Local Area Network (WLAN)**: A type of LAN that uses wireless technology, such as Wi-Fi.
-- **Virtual Private Network (VPN)**: Creates a secure, encrypted connection over the Internet, allowing users to access a remote network securely.
+**Step 6**: Inside the Computer-B, Data-D and all his friends reassembled to form the complete email message. Data-D was proud to have completed her journey, ensuring the user could read the message just as it was sent.
 
-## Types of Network Topology
-Topology in networking means how devices will be connected and their orientation. Based on their connection mechanism, they can be the following types:
+## How Data Moves Through the Internet:
+As you can understand from the above story, the journey of data from a source to a destination over the network is not a straightforward task and needs a guided rule for successful transmission.
 
-{{< figure
-    src="/img/blogs/79-network-topology.png"
-    caption="Network Topology (Photo Credit: TechTarget)"
-    align=center
->}}
+The OSI model or TCP/IP model described previously is the guided rule for this. This gives us an organized and self-describing way for efficient data moving over the internet. Let's jump into the more detailed journey.
 
-- **Star Topology**: All devices are connected to a central hub or switch. If the central device fails, the entire network is affected.
-- **Ring Topology**: Each device is connected to two other devices, forming a circular pathway. Data travels in one direction (or both in a dual-ring topology).
-- **Bus Topology**: All devices share a common communication line (bus). If the bus fails, the entire network is affected.
-- **Mesh Topology**: Every device is connected to every other device, providing multiple pathways for data and high redundancy.
-- **Tree Topology**: A combination of star and bus topologies, with groups of star-configured devices connected to a linear bus backbone.
-- **Hybrid Topology**: A mix of two or more different types of topologies to leverage the advantages of each.
+### Starting Point:
+The journey of data begins with the **address resolution** of source and destination. This address is called an **IP address**. Basically, when an application like a web browser or email client of the source device, also known as the host device, wants data transmission, the OS resolves the destination address using a protocol called **DNS resolution** [I will cover details in the next part of this series]. So after resolving the destination IP address by DNS resolution and the source IP address by **DHCP (Dynamic Host Control Protocol)** [I will cover details in the next part of this series], the data is ready to move.
 
-## Types of Data Communication
-Based on data flow direction and timing, data communication can be the following types:
+This process takes place in the Application Layer (Layer 7) of the OSI model. In the above story, Step-1 does this job.
 
-{{< figure
-    src="/img/blogs/79-data-communication.webp"
-    caption="Data Communication Types (Photo Credit: top10electrical)"
-    align=center
->}}
+### Translation and Securing Data:
+As the internet is an open place to move, it means an open network, so anyone can move anywhere without any restriction. In this scenario, to protect our data, we need a secret secure format so that only the source and destination can understand that. So at the beginning of moving in the network, data needs to be converted into a machine format called **binary** format, and to secure it, it needs to be **encrypted**, and for faster delivery, it needs to be **compressed**.
 
-- **Analog Communication**: Transmits data in the form of continuous signals, varying in amplitude or frequency. Example: telephone calls.
-- **Digital Communication**: Transmits data in binary form (0s and 1s) using digital signals. Example: internet data transfer.
-- **Simplex Communication**: Data transmission in one direction only, like a keyboard sending data to a computer.
-- **Half-Duplex Communication**: Data transmission in both directions, but not simultaneously. Example: walkie-talkies.
-- **Full-Duplex Communication**: Data transmission in both directions simultaneously, like a phone call.
+This process takes place in the Presentation Layer (Layer 6) of the OSI model.
 
----
+### Keep the Relation Alive:
+In the real world, we introduce ourselves to someone and create a relationship. This relationship or personal networking helps us in the future if we need some help or future interaction with them. The network also works like this. If we talk, visit, or interact for data transmission with some other network/website/application, there is a possibility to create a relationship for future smooth interaction. This relationship in networking is called a **session**.
 
-## Networking Devices:
-For building a proper computer network, which means connecting multiple computers so that they can share data, we need some networking devices as well. Some of the important networing devices are:
+The session layer manages the communication between applications by establishing, maintaining, and terminating sessions. It allows multiple applications to share the same network connection. This process take place in the Session Layer (Layer 5) of the OSI model.
 
-{{< figure
-    src="/img/blogs/79-network-devices.png"
-    caption="Networking Devices (Photo Credit: Medium)"
-    align=center
->}}
+### Transporting and Service-to-Service Communication:
+The channel or medium of a data transmission system, like wire or wireless, has some limitation or **bandwidth** for data transmission. So large data can't be transmitted at a time. That's why we need to **chunk** or **segment** large data into smaller parts so that data can be effectively transmitted through a channel or medium.
 
-- **Repeater**: Amplifies, repeats, regenerates, and extends the range of a network signal or data bits.
-- **Hub**: A basic device that connects multiple devices in a network, forwarding data to all connected devices. It can be considered a multiport repeater.
-- **Bridge**: Connects multiple hubs and directs data packets between them.
-- **Switch**: Connects devices within a single network, using MAC addresses to forward data to the correct destination. It communicates data **within** a network.
-- **Router**: Connects multiple networks and directs data packets between them. It communicates data **between** networks.
-- **Modem**: Modulates and demodulates signals for data transmission over telephone lines or cable. "Modulates" and "demodulates" mean to convert a signal from analog to digital and from digital to analog.
-- **Access Point**: Allows wireless devices to connect to a wired network using Wi-Fi.
-- **Firewall**: Monitors and controls incoming and outgoing network traffic based on security rules.
-- **NIC (Network Interface Card)**: Hardware that connects a computer to a network.
+The transport layer provides **service-to-service** communication between applications. It ensures that data is transmitted reliably and efficiently by breaking it up into smaller segments and reassembling them at the receiving end. It also provides error correction and flow control. This whole process is handled by a rule called **TCP (transmission control protocol)** or **UDP (user datagram protocol)** [I will cover details in the next part of this series]. This process takes place in the Transport Layer (Layer 4) of the OSI model. In the above story, portions of steps 4, 5, and 6 do this job.
 
-## Network Security Concepts:
-The network is an open place for performing fraud. So proper security and prevention are needed for creating a safe network for everyone. Some of the common techniques are:
-- **Authentication**: Verifying the identity of users or devices on a network.
-- **Authorization**: Granting access rights and permissions to authenticated users or devices.
-- **Encryption**: Encoding data to prevent unauthorized access.
-- **Firewall**: Filtering traffic to protect against unauthorized access and attacks.
-- **VPN (Virtual Private Network)**: Creating a secure, encrypted connection over a less secure network, such as the Internet.
-- **Intrusion Detection System (IDS)**: Monitors network traffic for suspicious activity and alerts administrators.
-- **Intrusion Prevention System (IPS)**: Actively blocks or prevents detected threats.
+### Routing and End-to-End Communication:
+For **end-to-end** communication, meaning **source-to-destination** communication, data needs to travel a long way. So data needs to find the best and shortest route to travel for faster and effective transmission. The network layer manages logical addressing and **routing** of data packets between networks (e.g., IP addresses). It works **end-to-end** and **packets** data with an L3 header.
 
-## Transmission Media:
-A network generally consists of two important parts. One is **Node**, which is the device that participates in the network, and another one is **Link**, which is the connection or transmission medium. Generally the following transmission media are commonly used:
+The network layer is responsible for the routing of data across multiple networks. It decides the best route for data to take based on the destination address and network conditions. Here segments are converted into packets by adding IP addresses. This process takes place in the Network Layer (Layer 3) of the OSI model. In the above story, portions of steps 2 and 3 do this job.
 
-{{< figure
-    src="/img/blogs/79-transmission-media.png"
-    caption="Transmission Media (Photo Credit: ResearchGate)"
-    align=center
->}}
+### Linking and Hop-to-Hop Communication:
+The Data Link Layer does not provide host-to-host delivery. Instead, there is hop-to-hop (node-to-node) delivery in the data link layer. **Hop-to-hop** delivery in the data link layer can be delivery of packets from the host’s network interface card (NIC) to the router’s interface, or it can be delivery of packets from one router’s interface to another router’s interface, or it can be delivery of packets from one router’s interface to the host’s network interface card (NIC). It does not directly deliver the packets from source to destination; instead, it delivers them from one hop (node) to another.
 
-- **Twisted Pair Cable**: Consists of pairs of wires twisted together to reduce electromagnetic interference. Used in telephony and Ethernet networks.
-- **Coaxial Cable**: Contains a central conductor, insulating layer, metallic shield, and outer insulating layer, used for cable television and broadband internet.
-- **Fiber Optic Cable**: Uses light to transmit data at high speeds over long distances, offering higher bandwidth and immunity to electromagnetic interference.
-- **Wireless Media**: Transmits data through the air using radio waves, microwaves, or infrared signals, used in Wi-Fi, cellular networks, and satellite communications.
+It ensures reliable data transfer across the physical network, managing MAC addresses and error detection. It works **hop-to-hop** and **frames** data with an L2 header.
+
+The data link layer is responsible for the reliable transmission of data between two nodes on the same network. It ensures that data is transmitted without errors, and it provides error correction and flow control. Here packets are converted to the frame by adding the MAC address with the packets. This process takes place in the Data Link Layer (Layer 2) of the OSI model.
+
+### Raw Data (bitstream) Transmission:
+Finally, the last stage deals with the physical transmission of data over the network, such as the cables, connectors, and other hardware. It defines the electrical and physical characteristics of the transmission medium, such as how data is transmitted and received. Here the frame becomes a bitstream for transmission through the media.
+
+For example, the physical layer may use copper or fiber-optic cables to transmit the data, or it may use wireless transmission methods such as radio waves or infrared signals. This process takes place in the Physical Layer (Layer 1) of the OSI model.
 
 ---
 
-## Simplified Communication Model:
+## Summary of OSI Model:
 {{< figure
-    src="/img/blogs/79-data-communication-model.png"
-    caption="Data Communication Model (Photo Credit: Medium)"
+    src="/img/blogs/79-osi.png"
+    caption="OSI Model (Photo Credit: Medium)"
     align=center
 >}}
 
-- **Source**: The originator of the data. It's also known as Host.
-- **Transmitter**: Converts data into a transmittable format. Network devices come into play at this stage.
-- **Transmission Medium**: The physical path or channel over which data is transmitted. It can be wired or wireless.
-- **Receiver**: Converts received signals back into data. Again, network devices work here.
-- **Destination**: The final recipient of the data. It is also known as a server.
+- **Layer 1 - Physical**: Handles the transmission of raw bitstreams over a physical medium (e.g., cables, radio waves).
+- **Layer 2 - Data Link**: Ensures reliable data transfer across the physical network, managing MAC addresses and error detection. It works hop to hop and framing data with L3 header.
+- **Layer 3 - Network**: Manages logical addressing and routing of data packets between networks (e.g., IP addresses). It works end to end and packeting data with L2 header.
+- **Layer 4 - Transport**: Ensures complete and reliable data transfer with error checking and flow control (e.g., TCP, UDP). It works service to service and segmenting data.
+- **Layer 5 - Session**: Manages sessions or connections between applications.
+- **Layer 6 - Presentation**: Translates data between the application and network formats, including encryption and compression.
+- **Layer 7 - Application**: Provides network services directly to end-user applications (e.g., HTTP, FTP).
+
+---
+
+## TCP/IP Model:
+{{< figure
+    src="/img/blogs/79-tcp-ip.png"
+    caption="TCP/IP Model (Photo Credit: GeeksForGeeks)"
+    align=center
+>}}
+
+- **Link Layer / Network Access Layer**: Manages physical network hardware and media access (e.g., Ethernet, Wi-Fi). As the diagram shows, it is almost similar to the OSI model layer 1 + layer 2.
+- **Internet Layer**: Handles logical addressing and routing of data packets (e.g., IP). As the diagram shows, it is almost similar to OSI model layer 3.
+- **Transport Layer**: Ensures reliable or fast data transfer with protocols like TCP and UDP. As the diagram shows, it is almost similar to OSI model layer 4.
+- **Application Layer**: Provides application-specific network services and protocols (e.g., HTTP, FTP, DNS). As the diagram shows, it is almost similar to the OSI model layer 5 + layer 6 + layer 7.
+
+---
 
 ## Conclusion:
-Understanding data communication and networking is crucial for engineers and IT professionals. Key foundational concepts include networking basics, data communication processes, and the variety of network types and topologies that dictate how devices connect and interact.
+In short data transmission or packet traveling performs according to the following mechanism:
+- **Source Device**: Data is created and segmented into packets.
+- **Local Router**: Packets are forwarded to the local router.
+- **ISP Network**: ISP routes the packets towards the destination.
+- **Internet Backbone**: Packets travel through various routers on the internet.
+- **Destination ISP**: ISP forwards packets to the local network of the destination.
+- **Destination Device**: Packets are reassembled and delivered to the application.
 
-Networking devices, including routers, switches, hubs, modems, and access points, play vital roles in building and maintaining network infrastructures. Network security concepts, such as encryption, firewalls, VPNs, and IDS/IPS, are critical for protecting data integrity and preventing unauthorized access.
-
-Transmission media, including twisted pair cables, coaxial cables, fiber optics, and wireless options, offer various means of data transmission, each with its advantages and applications. The simplified communication model illustrates the fundamental process of data transfer from source to destination.
-
----
-
-*In the next part, we will try to explore how data moves through the internet using a structured framework called the **OSI** model and the **TCP/IP** model.*
+This process ensures reliable and efficient transmission of data from the source to the destination across the internet.
