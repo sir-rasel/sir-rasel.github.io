@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 2:** [Fundamental of Computer Networking and Data Communication : Part 2 (How Data Moves Through the Internet)]({{< ref "blogs/79-computer-networking-data-movement-osi.md" >}})
+- **Part 4:** [Fundamental of Computer Networking and Data Communication : Part 4 (Brief Description of Some Networking Concepts)]({{< ref "blogs/81-computer-networking-buzzwords.md" >}})
 ---
 
 {{< figure
@@ -232,4 +233,4 @@ These protocols work together across different layers to facilitate various aspe
 
 ---
 
-*Insha Allah, we will try to explore some of the protocols working procedure in depth.*
+*Insha Allah, we will try to explore some of the protocols working procedure in depth in future.*
