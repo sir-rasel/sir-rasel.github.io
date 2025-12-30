@@ -17,9 +17,9 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowCodeCopyButtons: true
 cover:
-    image: "img/blogs/80-networking-protocol.png"
-    caption: "Networking Protocols"
-    alt: "Networking Protocols"
+    image: "img/blogs/81-network-buzzwords.jfif"
+    caption: "Networking Buzzwords"
+    alt: "Networking Buzzwords"
     relative: true
     hidden: true
 ---
@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 3:** [Fundamental of Computer Networking and Data Communication : Part 3 (Important Protocols and How They Work)]({{< ref "blogs/80-computer-networking-protocols.md" >}})
+- **Part 5:** [Fundamental of Computer Networking and Data Communication : Part 5 (Important Network Configurations)]({{< ref "blogs/82-computer-networking-configurations.md" >}})
 ---
 
 {{< figure
@@ -35,7 +36,7 @@ cover:
     align=center
 >}}
 
-In this series, we try to explore the fundamentals of computer networking and data communication. We will try to learn the different computer networking and data communication aspects one by one. In this part, we try to explore some of the most important networing concepts briefly.
+In this series, we try to explore the fundamentals of computer networking and data communication. We will try to learn the different computer networking and data communication aspects one by one. In this part, we try to explore some of the most important networking concepts briefly.
 
 So let's get started...
 

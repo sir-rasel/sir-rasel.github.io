@@ -36,7 +36,7 @@ cover:
     align=center
 >}}
 
-In this series, we try to explore the fundamentals of computer networking and data communication. We will try to learn the different computer networking and data communication aspects one by one. In this part, we try to explore some of the important networing protocols.
+In this series, we try to explore the fundamentals of computer networking and data communication. We will try to learn the different computer networking and data communication aspects one by one. In this part, we try to explore some of the important networking protocols.
 
 So let's get started...
 
