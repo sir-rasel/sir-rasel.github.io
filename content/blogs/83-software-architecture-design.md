@@ -1,7 +1,7 @@
 ---
 title: "Tale of Software Architect(ure): Part 1 (Software Architecture and Software Design)"
 description: "Let's learn the software architecture in a nutshell!"
-date: "2026-01-15T00:00:00Z"
+date: "2026-01-01T00:00:00Z"
 tags: ["software-architect", "software-architecture", "software-design"]
 draft: false
 showtoc: false
@@ -24,13 +24,18 @@ cover:
     hidden: true
 ---
 
+---
+### Other Parts of This Series:
+- **Part 2:** [Tale of Software Architect(ure): Part 2 (Role of Software Architect and Knowledge To Have)]({{< ref "blogs/84-software-architecture-architect.md" >}})
+---
+
 {{< figure
     src="/img/blogs/83-software-design.png"
     caption="Software Architecture & Software Design (Photo Credit: LinkedIn Image)"
     align=center
 >}}
 
-In this series, we try to explore the software architecture in a nutshell. We will try to learn the different aspects of software architecture and software architect one by one. In this part, we try to explore the term software architecture and software design.
+In this series, we try to explore the software architecture in a nutshell. We will try to learn the different aspects of software architecture and software architects one by one. In this part, we try to explore the terms "software architecture" and "software design."
 
 So let's get started...
 
