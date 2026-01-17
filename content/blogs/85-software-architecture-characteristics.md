@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 2:** [Tale of Software Architect(ure): Part 2 (Role of Software Architect and Knowledge To Have)]({{< ref "blogs/84-software-architecture-architect.md" >}})
+- **Part 4:** [Tale of Software Architect(ure): Part 4 (Things Should Consider When Design/Architect a Software System)]({{< ref "blogs/86-software-architecture-considerations.md" >}})
 ---
 
 {{< figure
