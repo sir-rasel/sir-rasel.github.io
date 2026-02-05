@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 3:** [Tale of Software Architect(ure): Part 3 (Characteristics of Software Architecture)]({{< ref "blogs/85-software-architecture-characteristics.md" >}})
+- **Part 5:** [Tale of Software Architect(ure): Part 5 (Wrong Assumptions in Software Architecture and Fallacies of Distributed Computing)]({{< ref "blogs/87-software-architecture-fallacies.md" >}})
 ---
 
 {{< figure
