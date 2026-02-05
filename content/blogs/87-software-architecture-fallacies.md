@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 4:** [Tale of Software Architect(ure): Part 4 (Things Should Consider When Design/Architect a Software System)]({{< ref "blogs/86-software-architecture-considerations.md" >}})
+- **Part 6:** [Tale of Software Architect(ure): Part 6 (Framework for System Design Interview)]({{< ref "blogs/88-software-architecture-interview-framework.md" >}})
 ---
 
 {{< figure
