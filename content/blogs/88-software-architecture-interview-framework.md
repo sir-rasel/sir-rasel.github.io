@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 5:** [Tale of Software Architect(ure): Part 5 (Wrong Assumptions in Software Architecture and Fallacies of Distributed Computing)]({{< ref "blogs/87-software-architecture-fallacies.md" >}})
+- **Part 7:** [Tale of Software Architect(ure): Part 7 (Well Known Software Architectures Styles)]({{< ref "blogs/89-software-architecture-patterns.md" >}})
 ---
 
 {{< figure
