@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 6:** [Tale of Software Architect(ure): Part 6 (Framework for System Design Interview)]({{< ref "blogs/88-software-architecture-interview-framework.md" >}})
+- **Part 8:** [Tale of Software Architect(ure): Part 8 (Architecture Patterns and Layered Architecture)]({{< ref "blogs/90-software-architecture-layered.md" >}})
 ---
 
 {{< figure
