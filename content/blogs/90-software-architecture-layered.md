@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 7:** [Tale of Software Architect(ure): Part 7 (Well Known Software Architectures Styles)]({{< ref "blogs/89-software-architecture-patterns.md" >}})
+- **Part 9:** [Tale of Software Architect(ure): Part 9 (MVC Architecture Pattern)]({{< ref "blogs/91-software-architecture-mvc.md" >}})
 ---
 
 {{< figure
