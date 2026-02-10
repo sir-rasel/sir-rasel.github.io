@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 9:** [Tale of Software Architect(ure): Part 9 (MVC Architecture Pattern)]({{< ref "blogs/91-software-architecture-mvc.md" >}})
+- **Part 11:** [Tale of Software Architect(ure): Part 11 (Microkernel Architecture)]({{< ref "blogs/93-software-architecture-micro-kernel.md" >}})
 ---
 
 {{< figure
