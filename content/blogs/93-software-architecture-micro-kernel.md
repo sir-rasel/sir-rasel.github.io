@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 10:** [Tale of Software Architect(ure): Part 10 (Pipe-Filter Architecture)]({{< ref "blogs/92-software-architecture-pipe-filter.md" >}})
+- **Part 12:** [Tale of Software Architect(ure): Part 12 (Service Oriented Architecture)]({{< ref "blogs/94-software-architecture-soa.md" >}})
 ---
 
 {{< figure
