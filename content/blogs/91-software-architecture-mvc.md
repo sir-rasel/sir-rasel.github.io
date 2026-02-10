@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 8:** [Tale of Software Architect(ure): Part 8 (Architecture Patterns and Layered Architecture)]({{< ref "blogs/90-software-architecture-layered.md" >}})
+- **Part 10:** [Tale of Software Architect(ure): Part 10 (Pipe-Filter Architecture)]({{< ref "blogs/92-software-architecture-pipe-filter.md" >}})
 ---
 
 {{< figure
