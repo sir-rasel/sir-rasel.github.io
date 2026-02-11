@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 17:** [Tale of Software Architect(ure): Part 17 (Microservice Architecture)]({{< ref "blogs/99-software-architecture-microservice.md" >}})
+- **Part 19:** [Tale of Software Architect(ure): Part 19 (Event Sourcing and Serverless Architecture Pattern)]({{< ref "blogs/101-software-architecture-event-sourcing-serverless.md" >}})
 ---
 
 {{< figure
