@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 11:** [Tale of Software Architect(ure): Part 11 (Microkernel Architecture)]({{< ref "blogs/93-software-architecture-micro-kernel.md" >}})
+- **Part 13:** [Tale of Software Architect(ure): Part 13 (Clean Architecture)]({{< ref "blogs/95-software-architecture-clean.md" >}})
 ---
 
 {{< figure
