@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 12:** [Tale of Software Architect(ure): Part 12 (Service Oriented Architecture)]({{< ref "blogs/94-software-architecture-soa.md" >}})
+- **Part 14:** [Tale of Software Architect(ure): Part 14 (Modular Monolith Architecture Pattern)]({{< ref "blogs/96-software-architecture-modular-monolith.md" >}})
 ---
 
 {{< figure
