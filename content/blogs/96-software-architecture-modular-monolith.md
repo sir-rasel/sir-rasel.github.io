@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 13:** [Tale of Software Architect(ure): Part 13 (Clean Architecture)]({{< ref "blogs/95-software-architecture-clean.md" >}})
+- **Part 15:** [Tale of Software Architect(ure): Part 15 (Backend for Frontend (BFF) Architecture Pattern)]({{< ref "blogs/97-software-architecture-bff.md" >}})
 ---
 
 {{< figure
