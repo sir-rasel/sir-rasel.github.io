@@ -1,6 +1,5 @@
 ---
-title: "Tale of Software Architect(ure): Part 19 (Event Sourcing and Serverless Architecture Pattern)
-"
+title: "Tale of Software Architect(ure): Part 19 (Event Sourcing and Serverless Architecture Pattern)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-19T00:00:00Z"
 tags: ["software-architect", "software-architecture", "software-design"]
@@ -28,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 18:** [Tale of Software Architect(ure): Part 18 (Event Driven Architecture)]({{< ref "blogs/100-software-architecture-eda.md" >}})
+- **Part 20:** [Tale of Software Architect(ure): Part 20 (The Conclusion - Important Techniques & Components for Scalable System)]({{< ref "blogs/102-software-architecture-techniques.md" >}})
 ---
 
 {{< figure
