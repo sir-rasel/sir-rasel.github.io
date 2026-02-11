@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 15:** [Tale of Software Architect(ure): Part 15 (Backend for Frontend (BFF) Architecture Pattern)]({{< ref "blogs/97-software-architecture-bff.md" >}})
+- **Part 17:** [Tale of Software Architect(ure): Part 17 (Microservice Architecture)]({{< ref "blogs/99-software-architecture-microservice.md" >}})
 ---
 
 {{< figure
