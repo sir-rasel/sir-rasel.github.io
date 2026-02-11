@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 16:** [Tale of Software Architect(ure): Part 16 (Domain Driven Design)]({{< ref "blogs/98-software-architecture-ddd.md" >}})
+- **Part 18:** [Tale of Software Architect(ure): Part 18 (Event Driven Architecture)]({{< ref "blogs/100-software-architecture-eda.md" >}})
 ---
 
 {{< figure
