@@ -2,7 +2,7 @@
 title: "Tale of Software Architect(ure): Part 11 (Microkernel Architecture)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-11T00:00:00Z"
-tags: ["software-architect", "software-architecture", "software-design"]
+tags: ["software-architect", "software-architecture", "software-design", "mirco-kernel-architecture"]
 draft: false
 showtoc: false
 tocOpen: false
@@ -42,7 +42,7 @@ So let's get started...
 
 ---
 
-## Story:
+## Story
 
 Once upon a time, in a vast digital kingdom called **System-Land**, there was a giant castle called the System-Castle. This castle was impressive, massive and powerful but there was a problem: everything in the kingdom had to be managed inside the castle’s walls. If one room had a problem, the whole castle suffered. One faulty door could cause the entire structure to collapse, and fixing/creating anything required making changes throughout the whole castle. The castle was big, but its size made it slow, fragile, and hard to maintain.
 

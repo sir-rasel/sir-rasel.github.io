@@ -2,7 +2,7 @@
 title: "Tale of Software Architect(ure): Part 16 (Domain Driven Design)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-16T00:00:00Z"
-tags: ["software-architect", "software-architecture", "software-design"]
+tags: ["software-architect", "software-architecture", "software-design", "domain-driven-design"]
 draft: false
 showtoc: false
 tocOpen: false
@@ -42,7 +42,7 @@ So let's get started...
 
 ---
 
-## Story:
+## Story
 
 Once upon a time, there was a bustling town called Softwaria, known for its many businesses and its ever-growing market. The town's businesses such as shops, shipping companies, and inventory warehouses had to work together seamlessly to meet the needs of Softwaria’s citizens. But as more people moved to town, **communication** and **coordination** became increasingly complex.
 

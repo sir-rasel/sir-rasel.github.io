@@ -2,7 +2,7 @@
 title: "Tale of Software Architect(ure): Part 9 (MVC Architecture Pattern)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-09T00:00:00Z"
-tags: ["software-architect", "software-architecture", "software-design"]
+tags: ["software-architect", "software-architecture", "software-design", "model-view-controller"]
 draft: false
 showtoc: false
 tocOpen: false
@@ -42,7 +42,7 @@ So let's get started...
 
 ---
 
-## Story:
+## Story
 
 One day, a customer walked into SweetBites and wanted to order a birthday cake. Here’s what happened:
 

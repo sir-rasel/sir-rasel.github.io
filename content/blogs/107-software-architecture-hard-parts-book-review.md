@@ -1,5 +1,5 @@
 ---
-title: "Book Review and Takeaways : ('Software Architecture - The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures')"
+title: "Book Review and Takeaways : (Software Architecture - The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-25T00:00:00Z"
 tags: ["software-architecture-hard-parts-book" , "book-review"]
@@ -25,7 +25,7 @@ cover:
 ---
 
 ---
-### Detailed Software Engineering Series:
+### Detailed Software Architecture Series:
 - **Part 1:** [Tale of Software Architect(ure): Part 1 (Software Architecture and Software Design)]({{< ref "blogs/83-software-architecture-design.md" >}})
 ---
 

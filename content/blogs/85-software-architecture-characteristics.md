@@ -2,7 +2,7 @@
 title: "Tale of Software Architect(ure): Part 3 (Characteristics of Software Architecture)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-03T00:00:00Z"
-tags: ["software-architect", "software-architecture", "software-design"]
+tags: ["software-architect", "software-architecture", "software-design", "architecture-characteristics"]
 draft: false
 showtoc: false
 tocOpen: false
@@ -36,7 +36,7 @@ cover:
     align=center
 >}}
 
-In this series, we try to explore the software architecture in a nutshell. We will try to learn the different aspects of software architecture and software architects one by one. In this part, we try to explore the charateristics of software architecture.
+In this series, we try to explore the software architecture in a nutshell. We will try to learn the different aspects of software architecture and software architects one by one. In this part, we try to explore the characteristics of software architecture.
 
 So let's get started...
 
@@ -173,7 +173,7 @@ For more qualitative characteristics like usability or maintainability, feedback
 - **Scalability**: Number of concurrent users supported, resource consumption under load.
 - **Availability**: Uptime percentage, Mean Time Between Failures (MTBF), Mean Time to Repair (MTTR).
 - **Security**: Number of vulnerabilities, time to patch, unauthorized access incidents.
-- **Maintainability**: Defect density, time to resolve defects, code complexity (Cyclomatic complexity).
+- **Maintainability**: Defect density, time to resolve defects, code complexity (Cyclometric complexity).
 - **Extensibility**: Time to add a new feature, number of code changes for new functionality.
 - **Usability**: User satisfaction scores, task completion time, error rates.
 - **Reliability**: Failure rates, system downtime, successful transactions.

@@ -1,5 +1,5 @@
 ---
-title: "Book Review and Takeaways: ('Fundamentals of Software Architecture: An Engineering Approach')"
+title: "Book Review and Takeaways: (Fundamentals of Software Architecture: An Engineering Approach)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-21T00:00:00Z"
 tags: ["fundamentals-of-software-architecture-book" , "book-review"]
@@ -25,7 +25,7 @@ cover:
 ---
 
 ---
-### Detailed Software Engineering Series:
+### Detailed Software Architecture Series:
 - **Part 1:** [Tale of Software Architect(ure): Part 1 (Software Architecture and Software Design)]({{< ref "blogs/83-software-architecture-design.md" >}})
 ---
 

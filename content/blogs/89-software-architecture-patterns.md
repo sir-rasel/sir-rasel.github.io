@@ -2,7 +2,7 @@
 title: "Tale of Software Architect(ure): Part 7 (Well Known Software Architectures Styles)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-07T00:00:00Z"
-tags: ["software-architect", "software-architecture", "software-design"]
+tags: ["software-architect", "software-architecture", "software-design", "architecture-patterns"]
 draft: false
 showtoc: false
 tocOpen: false
@@ -192,4 +192,4 @@ From the above mentioned architecture styles some can be both monolith and distr
 ---
 
 ## Summary:
-Knowing and understanding different well-known architecture styles and their details helps you in your day-to-day design. It helps you in your development and trade-off analysis during your system design.In this part, I just list down the architecture styles. In the upcoming parts of this series, I will try to explain these contents in detail, insha Allah.
+Knowing and understanding different well-known architecture styles and their details helps you in your day-to-day design. It helps you in your development and trade-off analysis during your system design. In this part, I just list down the architecture styles. In the upcoming parts of this series, I will try to explain these contents in detail, insha Allah.

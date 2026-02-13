@@ -1,8 +1,8 @@
 ---
-title: "Book Review and Takeaways: ('Clean Architecture: A Craftsman's Guide to Software Structure and Design')"
+title: "Book Review and Takeaways: (Clean Architecture: A Craftsman's Guide to Software Structure and Design)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-23T00:00:00Z"
-tags: ["clean-architecture-book" , "book-review"]
+tags: ["clean-architecture-book" , "book-review", "clean-architecture"]
 draft: false
 showtoc: false
 tocOpen: false
@@ -25,7 +25,7 @@ cover:
 ---
 
 ---
-### Detailed Software Engineering Series:
+### Detailed Software Architecture Series:
 - **Part 1:** [Tale of Software Architect(ure): Part 1 (Software Architecture and Software Design)]({{< ref "blogs/83-software-architecture-design.md" >}})
 ---
 

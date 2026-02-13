@@ -2,7 +2,7 @@
 title: "Tale of Software Architect(ure): Part 20 (The Conclusion - Important Techniques & Components for Scalable System)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-20T00:00:00Z"
-tags: ["software-architect", "software-architecture", "software-design"]
+tags: ["software-architect", "software-architecture", "software-design", "software-architecture-techniques", "software-architecture-components"]
 draft: false
 showtoc: false
 tocOpen: false

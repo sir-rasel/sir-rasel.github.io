@@ -1,5 +1,5 @@
 ---
-title: "Book Review and Takeaways: ('Software Architecture in Practice')"
+title: "Book Review and Takeaways: (Software Architecture in Practice)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-22T00:00:00Z"
 tags: ["software-architecture-in-practice-book" , "book-review"]
@@ -25,7 +25,7 @@ cover:
 ---
 
 ---
-### Detailed Software Engineering Series:
+### Detailed Software Architecture Series:
 - **Part 1:** [Tale of Software Architect(ure): Part 1 (Software Architecture and Software Design)]({{< ref "blogs/83-software-architecture-design.md" >}})
 ---
 

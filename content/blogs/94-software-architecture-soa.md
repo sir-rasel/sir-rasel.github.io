@@ -2,7 +2,7 @@
 title: "Tale of Software Architect(ure): Part 12 (Service Oriented Architecture)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-12T00:00:00Z"
-tags: ["software-architect", "software-architecture", "software-design"]
+tags: ["software-architect", "software-architecture", "software-design", "service-oriented-architecture"]
 draft: false
 showtoc: false
 tocOpen: false
@@ -42,7 +42,7 @@ So let's get started...
 
 ---
 
-## Story:
+## Story
 
 In a kingdom called **GanjamLand**, the king struggled to manage the ever-growing needs of his people due to a massive, complicated infrastructure or large arrangement where every change disrupted the entire system. A wise architect proposed a new approach: instead of expanding the complicated arrangement, they built a village of small, independent houses, each responsible for one task—such as handling payments, managing inventory, or sending notifications. These houses worked together but could grow or change independently without affecting others. This new system, known as **Service-Oriented Architecture (SOA)**, made the kingdom more efficient, adaptable, and easier to maintain.
 

@@ -2,7 +2,7 @@
 title: "Tale of Software Architect(ure): Part 18 (Event Driven Architecture)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-18T00:00:00Z"
-tags: ["software-architect", "software-architecture", "software-design"]
+tags: ["software-architect", "software-architecture", "software-design", "event-driven-architecture"]
 draft: false
 showtoc: false
 tocOpen: false
@@ -42,7 +42,7 @@ So let's get started...
 
 ---
 
-## Story:
+## Story
 
 Once upon a time there was a popular marketplace called "Cloud Bazaar." Vendors in Cloud Bazaar worked around the clock to fulfill orders and delight their customers. However, as the city grew, so did the number of orders, making it difficult for vendors to keep up. The once-efficient market was bogged down by delays and dependencies between services.
 

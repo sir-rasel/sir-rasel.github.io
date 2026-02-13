@@ -2,7 +2,7 @@
 title: "Tale of Software Architect(ure): Part 15 (Backend for Frontend (BFF) Architecture Pattern)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-15T00:00:00Z"
-tags: ["software-architect", "software-architecture", "software-design"]
+tags: ["software-architect", "software-architecture", "software-design", "backend-for-frontend"]
 draft: false
 showtoc: false
 tocOpen: false
@@ -42,7 +42,7 @@ So let's get started...
 
 ---
 
-## Story:
+## Story
 
 In the land of **AppVille**, there lived two very different characters: **Mobi**, the energetic mobile **app**, and **Webby**, the sophisticated web app. Both served the people of AppVille by connecting them to the **Kingdom of Data**, a realm where all the important information, user profiles, posts, and notifications was stored.
 

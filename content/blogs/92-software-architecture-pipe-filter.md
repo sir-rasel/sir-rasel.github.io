@@ -2,7 +2,7 @@
 title: "Tale of Software Architect(ure): Part 10 (Pipe-Filter Architecture)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-10T00:00:00Z"
-tags: ["software-architect", "software-architecture", "software-design"]
+tags: ["software-architect", "software-architecture", "software-design", "pipe-filter-architecture"]
 draft: false
 showtoc: false
 tocOpen: false
@@ -42,7 +42,7 @@ So let's get started...
 
 ---
 
-## Story:
+## Story
 
 Once upon a time, in a village, there was a great river called the **River of Knowledge**. This river flowed from the highest mountains, carrying messages, stories, and wisdom to the people of the land. But the river was wild and full of all sorts of information, some useful, some unnecessary, and some even misleading.
 

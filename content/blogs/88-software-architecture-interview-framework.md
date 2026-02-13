@@ -2,7 +2,7 @@
 title: "Tale of Software Architect(ure): Part 6 (Framework for System Design Interview)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-06T00:00:00Z"
-tags: ["software-architect", "software-architecture", "software-design"]
+tags: ["software-architect", "software-architecture", "software-design", "system-design-framework"]
 draft: false
 showtoc: false
 tocOpen: false
