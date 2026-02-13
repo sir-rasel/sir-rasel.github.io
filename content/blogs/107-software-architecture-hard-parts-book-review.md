@@ -1,5 +1,5 @@
 ---
-title: "Book Review and Takeaways : ('Software Architecture - The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures')"
+title: "Book Review and Takeaways : (Software Architecture - The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-25T00:00:00Z"
 tags: ["software-architecture-hard-parts-book" , "book-review"]

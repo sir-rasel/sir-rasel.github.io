@@ -2,7 +2,7 @@
 title: "Tale of Software Architect(ure): Part 4 (Things Should Consider When Design/Architect a Software System)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-04T00:00:00Z"
-tags: ["software-architect", "software-architecture", "software-design"]
+tags: ["software-architect", "software-architecture", "software-design", "architecture-consideration"]
 draft: false
 showtoc: false
 tocOpen: false

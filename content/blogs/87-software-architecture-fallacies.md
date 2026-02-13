@@ -2,7 +2,7 @@
 title: "Tale of Software Architect(ure): Part 5 (Wrong Assumptions in Software Architecture and Fallacies of Distributed Computing)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-05T00:00:00Z"
-tags: ["software-architect", "software-architecture", "software-design"]
+tags: ["software-architect", "software-architecture", "software-design", "fallacies-of-distributed-system"]
 draft: false
 showtoc: false
 tocOpen: false

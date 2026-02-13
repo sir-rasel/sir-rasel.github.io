@@ -2,7 +2,7 @@
 title: "Tale of Software Architect(ure): Part 17 (Microservice Architecture)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-17T00:00:00Z"
-tags: ["software-architect", "software-architecture", "software-design"]
+tags: ["software-architect", "software-architecture", "software-design", "mircoservice-architecture"]
 draft: false
 showtoc: false
 tocOpen: false
@@ -42,7 +42,7 @@ So let's get started...
 
 ---
 
-## Story:
+## Story
 
 Imagine a small town bakery called "Sweet Slice", famous for its cakes, cookies, and custom pastries. Business is booming, and customers flood the bakery each day with different needs. Some come for cakes, others for fresh bread, and some for a quick coffee. At first, the bakery runs as one large unit, with every employee handling every task like taking orders, baking, handling payments, and packing. But as demand grows, this all-in-one approach causes problems:
 

@@ -2,7 +2,7 @@
 title: "Tale of Software Architect(ure): Part 8 (Architecture Patterns and Layered Architecture)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-08T00:00:00Z"
-tags: ["software-architect", "software-architecture", "software-design"]
+tags: ["software-architect", "software-architecture", "software-design", "layered-architecture"]
 draft: false
 showtoc: false
 tocOpen: false
@@ -42,7 +42,7 @@ So let's get started...
 
 ---
 
-## Story:
+## Story
 One day, a customer enters the restaurant. The host greets them and shows them to a table. The waiter arrives, takes their order, and passes it to the chef. The chef checks with the stockroom manager to ensure they have all the ingredients. The stockroom, in turn, regularly orders fresh supplies from the supplier to keep the kitchen well-stocked. The waiter brings the finished meal to the customer, who enjoys a perfect dining experience.
 
 Each person in the restaurant has a clear role. The host doesn’t cook, the waiter doesn’t manage stock, and the chef doesn’t greet customers. Each layer focuses on its own responsibilities, ensuring smooth and efficient operation in a sequential manner.

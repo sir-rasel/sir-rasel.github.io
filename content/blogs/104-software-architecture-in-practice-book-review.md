@@ -1,5 +1,5 @@
 ---
-title: "Book Review and Takeaways: ('Software Architecture in Practice')"
+title: "Book Review and Takeaways: (Software Architecture in Practice)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-22T00:00:00Z"
 tags: ["software-architecture-in-practice-book" , "book-review"]

@@ -1,5 +1,5 @@
 ---
-title: "Book Review and Takeaways: ('System Design Interview - An insider's guide')"
+title: "Book Review and Takeaways: (System Design Interview - An insider's guide)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-24T00:00:00Z"
 tags: ["system-design-interview-book" , "book-review"]

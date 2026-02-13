@@ -2,7 +2,7 @@
 title: "Tale of Software Architect(ure): Part 13 (Clean Architecture)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-13T00:00:00Z"
-tags: ["software-architect", "software-architecture", "software-design"]
+tags: ["software-architect", "software-architecture", "software-design", "clean-architecture"]
 draft: false
 showtoc: false
 tocOpen: false
@@ -42,7 +42,7 @@ So let's get started...
 
 ---
 
-## Story:
+## Story
 
 In this world, Allah is the most powerful and only independent who doesn't need any help or something like that. Allah creates the whole world and all the creatures. Human is one of the best creature of Allah. He also creates a dependency chain that should be followed for maintaining the balance. If anyone want to break the chain or so called break the rules then a very unexpected and dangerous things happen. Which cost a very big damage in the system.
 

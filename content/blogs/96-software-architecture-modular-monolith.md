@@ -2,7 +2,7 @@
 title: "Tale of Software Architect(ure): Part 14 (Modular Monolith Architecture Pattern)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-14T00:00:00Z"
-tags: ["software-architect", "software-architecture", "software-design"]
+tags: ["software-architect", "software-architecture", "software-design", "modular-monolith-architecture"]
 draft: false
 showtoc: false
 tocOpen: false
@@ -42,7 +42,7 @@ So let's get started...
 
 ---
 
-## Story:
+## Story
 
 In a bustling factory, everything was built together under one gigantic roof and at first, this setup was simple, everyone worked together in one big building, and they could quickly walk from one section to another if they needed help.
 

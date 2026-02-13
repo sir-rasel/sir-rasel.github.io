@@ -2,7 +2,7 @@
 title: "Tale of Software Architect(ure): Part 19 (Event Sourcing and Serverless Architecture Pattern)"
 description: "Let's learn the software architecture in a nutshell!"
 date: "2026-01-19T00:00:00Z"
-tags: ["software-architect", "software-architecture", "software-design"]
+tags: ["software-architect", "software-architecture", "software-design", "event-sourcing", "serverless"]
 draft: false
 showtoc: false
 tocOpen: false
