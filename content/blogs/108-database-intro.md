@@ -24,6 +24,11 @@ cover:
     hidden: true
 ---
 
+---
+### Other Parts of This Series:
+- **Part 2:** [Journey To Database World: Part 2 (Database and Its Different Types)]({{< ref "blogs/109-database-types.md" >}})
+---
+
 {{< figure
     src="/img/blogs/108-database-intro.png"
     caption="Database Introduction (Photo Credit: LinkedIn Image)"
