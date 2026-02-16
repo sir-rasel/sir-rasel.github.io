@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 1:** [Journey To Database World: Part 1 (Data, Record, Information, Historic Evaluation of Data Store, Database)]({{< ref "blogs/108-database-intro.md" >}})
+- **Part 3:** [Journey To Database World: Part 3 (Database Management System - DBMS)]({{< ref "blogs/110-database-dbms.md" >}})
 ---
 
 {{< figure
