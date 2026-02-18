@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 4:** [Journey To Database World: Part 4 (Relational Database - PostgreSQL As Example)]({{< ref "blogs/111-database-postgresql.md" >}})
+- **Part 6:** [Journey To Database World: Part 6 (Key-Value Pair Database - Redis As Example)]({{< ref "blogs/113-database-key-value-redis.md" >}})
 ---
 
 {{< figure
