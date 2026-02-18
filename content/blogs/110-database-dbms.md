@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 2:** [Journey To Database World: Part 2 (Database and Its Different Types)]({{< ref "blogs/109-database-types.md" >}})
+- **Part 4:** [Journey To Database World: Part 4 (Relational Database - PostgreSQL As Example)]({{< ref "blogs/111-database-postgresql.md" >}})
 ---
 
 {{< figure
