@@ -2,7 +2,7 @@
 title: "Journey To Database World: Part 3 (Database Management System - DBMS)"
 description: "Let's learn the fundamental database concepts!"
 date: "2026-01-28T00:00:00Z"
-tags: ["database", "dbms"]
+tags: ["database", "dbms", "database-management-system"]
 draft: false
 showtoc: false
 tocOpen: false

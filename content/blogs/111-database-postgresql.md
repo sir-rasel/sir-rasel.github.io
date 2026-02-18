@@ -2,7 +2,7 @@
 title: "Journey To Database World: Part 4 (Relational Database - PostgreSQL As Example)"
 description: "Let's learn the fundamental database concepts!"
 date: "2026-01-29T00:00:00Z"
-tags: ["database", "dbms"]
+tags: ["database", "sql", "postgresql"]
 draft: false
 showtoc: false
 tocOpen: false
@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 3:** [Journey To Database World: Part 3 (Database Management System - DBMS)]({{< ref "blogs/110-database-dbms.md" >}})
+- **Part 4:** [Journey To Database World: Part 5 (NoSQL Key-Value Pair Database - DynamoDB As Example)]({{< ref "blogs/112-database-key-value-dynamoDB.md" >}})
 ---
 
 {{< figure
