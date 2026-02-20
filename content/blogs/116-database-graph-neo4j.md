@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 8:** [Journey To Database World: Part 8 (Column Family Database - Cassandra As Example)]({{< ref "blogs/115-database-column-cassandra.md" >}})
+- **Part 10:** [Journey To Database World: Part 10 (Vector Database - Qdrant As Example)]({{< ref "blogs/117-database-vector-qdrant.md" >}})
 ---
 
 {{< figure
