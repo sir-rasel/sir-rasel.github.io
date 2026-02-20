@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 7:** [Journey To Database World: Part 7 (Document Database - MongoDB As Example)]({{< ref "blogs/114-database-document-mongoDB.md" >}})
+- **Part 9:** [Journey To Database World: Part 9 (Graph Database - Neo4j As Example)]({{< ref "blogs/116-database-graph-neo4j.md" >}})
 ---
 
 {{< figure
