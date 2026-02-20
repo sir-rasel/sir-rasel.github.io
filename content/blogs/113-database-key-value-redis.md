@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 5:** [Journey To Database World: Part 5 (NoSQL Key-Value Pair Database - DynamoDB As Example)]({{< ref "blogs/112-database-key-value-dynamoDB.md" >}})
+- **Part 7:** [Journey To Database World: Part 7 (Document Database - MongoDB As Example)]({{< ref "blogs/114-database-document-mongoDB.md" >}})
 ---
 
 {{< figure
