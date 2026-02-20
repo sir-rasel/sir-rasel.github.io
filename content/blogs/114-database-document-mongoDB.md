@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 6:** [Journey To Database World: Part 6 (Key-Value Pair Database - Redis As Example)]({{< ref "blogs/113-database-key-value-redis.md" >}})
+- **Part 8:** [Journey To Database World: Part 8 (Column Family Database - Cassandra As Example)]({{< ref "blogs/115-database-column-cassandra.md" >}})
 ---
 
 {{< figure
