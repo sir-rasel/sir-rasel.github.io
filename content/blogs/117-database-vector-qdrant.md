@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 9:** [Journey To Database World: Part 9 (Graph Database - Neo4j As Example)]({{< ref "blogs/116-database-graph-neo4j.md" >}})
+- **Part 11:** [Journey To Database World: Part 11 (Knowledge Should Have According to Role)]({{< ref "blogs/118-database-role-wise-knowledge.md" >}})
 ---
 
 {{< figure
