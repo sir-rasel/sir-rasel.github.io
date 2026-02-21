@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 10:** [Journey To Database World: Part 10 (Vector Database - Qdrant As Example)]({{< ref "blogs/117-database-vector-qdrant.md" >}})
+- **Part 12:** [Journey To Database World: Part 12 (Database Internals)]({{< ref "blogs/119-database-internals.md" >}})
 ---
 
 {{< figure
