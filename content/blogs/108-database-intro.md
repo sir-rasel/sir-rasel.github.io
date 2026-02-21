@@ -159,4 +159,6 @@ Data represents raw facts or figures, while records are structured collections o
 
 Historically, data storage has evolved from physical mediums like clay tablets and punch cards to advanced digital systems like cloud storage and DNA encoding. Databases, essential for managing data electronically. This journey reflects humanity's growing need to collect, organize, and utilize data effectively over time.
 
+---
+
 In the next part, we will discuss about the database, database management system and different types of database in details, insha Allah.

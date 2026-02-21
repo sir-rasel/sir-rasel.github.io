@@ -289,4 +289,6 @@ As I said earlier, there are many other databases that exist in our world, and w
 
 A database is an organized collection of data that enables efficient storage, retrieval, and management. It is used in various applications like e-commerce, banking, healthcare, and social media to handle large volumes of data effectively. Databases can be classified into several types. Relational databases (RDBMS) store data in tables with rows and columns and use SQL for queries, with examples like MySQL and PostgreSQL. NoSQL databases handle unstructured or semi-structured data and include document-based (e.g., MongoDB), key-value (e.g., Redis), and graph databases (e.g., Neo4j). There are others types exist as: Distributed databases (e.g., Cassandra), In-memory databases, like Redis, Time-series databases, such as InfluxDB, Hierarchical databases organize data in a tree structure, and object-oriented databases store data as objects.
 
+---
+
 Insha Allah, will try to discuss some of well-known and most used databases in details in the upcoming parts.

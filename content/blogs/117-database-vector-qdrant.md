@@ -133,7 +133,7 @@ A **vector database** is a special type of database designed to store and manage
 
 {{< figure
     src="/img/blogs/117-vector-visual.png"
-    caption="A visual representation of sturctures"
+    caption="A visual representation of structures"
     align=center
 >}}
 
