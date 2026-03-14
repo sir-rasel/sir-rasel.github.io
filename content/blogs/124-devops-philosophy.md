@@ -2,7 +2,7 @@
 title: "DevOps - Step By Step Learning: Part 1 (What it is, History, Philosophy, Practice)"
 description: "Let's learn the fundamental DevOps concepts!"
 date: "2026-02-13T00:00:00Z"
-tags: ["devops" , "devops-philosophy"]
+tags: ["devops" , "devops-philosophy", "devops-practice", "devops-history"]
 draft: false
 showtoc: false
 tocOpen: false
@@ -24,9 +24,14 @@ cover:
     hidden: true
 ---
 
+---
+### Other Parts of This Series:
+- **Part 2:** [DevOps - Step By Step Learning : Part 2 (12 Factor Apps, DevOps 3 P's, 6 Pillars, 8 Phases)]({{< ref "blogs/125-devops-pillars.md" >}})
+---
+
 {{< figure
     src="/img/blogs/124-devops-philosophy.jfif"
-    caption="DevOps Philosophy (Photo Credit: LinkedIn Image)"
+    caption="DevOps Philosophy (Photo Credit: Unsplash)"
     align=center
 >}}
 
