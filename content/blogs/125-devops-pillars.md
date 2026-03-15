@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 1:** [DevOps - Step By Step Learning: Part 1 (What it is, History, Philosophy, Practice)]({{< ref "blogs/124-devops-philosophy.md" >}})
+- **Part 3:** [DevOps - Step By Step Learning : Part 3 (A Simplified Roadmap to Start)]({{< ref "blogs/126-devops-roadmap.md" >}})
 ---
 
 {{< figure
