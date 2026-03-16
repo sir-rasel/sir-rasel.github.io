@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 2:** [DevOps - Step By Step Learning : Part 2 (12 Factor Apps, DevOps 3 P's, 6 Pillars, 8 Phases)]({{< ref "blogs/125-devops-pillars.md" >}})
+- **Part 4:** [DevOps - Step By Step Learning : Part 4 (Basic Programming Using Golang)]({{< ref "blogs/127-devops-basic-golang.md" >}})
 ---
 
 {{< figure
