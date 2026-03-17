@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 3:** [DevOps - Step By Step Learning : Part 3 (A Simplified Roadmap to Start)]({{< ref "blogs/126-devops-roadmap.md" >}})
+- **Part 5:** [DevOps - Step By Step Learning : Part 5 (Create a REST API Server Using Golang and Gin)]({{< ref "blogs/128-devops-basic-gin-framework.md" >}})
 ---
 
 {{< figure
