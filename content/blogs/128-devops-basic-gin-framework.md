@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 4:** [DevOps - Step By Step Learning : Part 4 (Basic Programming Using Golang)]({{< ref "blogs/127-devops-basic-golang.md" >}})
+- **Part 6:** [DevOps - Step By Step Learning : Part 6 (Why, What and How Much Linux Knowledge Should Know)]({{< ref "blogs/129-devops-linux-knowledge.md" >}})
 ---
 
 {{< figure
