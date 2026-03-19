@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 5:** [DevOps - Step By Step Learning : Part 5 (Create a REST API Server Using Golang and Gin)]({{< ref "blogs/128-devops-basic-gin-framework.md" >}})
+- **Part 7:** [DevOps - Step By Step Learning : Part 7 (Understand Linux Kernel, Boot Process and Filesystem Hierarchy)]({{< ref "blogs/130-devops-linux-kernel-boot-file-system.md" >}})
 ---
 
 {{< figure
