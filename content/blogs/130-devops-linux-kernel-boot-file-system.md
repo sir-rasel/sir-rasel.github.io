@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 6:** [DevOps - Step By Step Learning : Part 6 (Why, What and How Much Linux Knowledge Should Know)]({{< ref "blogs/129-devops-linux-knowledge.md" >}})
+- **Part 8:** [DevOps - Step By Step Learning : Part 8 (Linux Command for File, Directory and Text Manipulation)]({{< ref "blogs/131-devops-linux-file-command.md" >}})
 ---
 
 {{< figure
