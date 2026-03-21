@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 7:** [DevOps - Step By Step Learning : Part 7 (Understand Linux Kernel, Boot Process and Filesystem Hierarchy)]({{< ref "blogs/130-devops-linux-kernel-boot-file-system.md" >}})
+- **Part 9:** [DevOps - Step By Step Learning : Part 9 (Linux Package, User Permission, System Process Management)]({{< ref "blogs/132-devops-linux-package-user-process.md" >}})
 ---
 
 {{< figure
