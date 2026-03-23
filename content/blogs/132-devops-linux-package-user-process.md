@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 8:** [DevOps - Step By Step Learning : Part 8 (Linux Command for File, Directory and Text Manipulation)]({{< ref "blogs/131-devops-linux-file-command.md" >}})
+- **Part 10:** [DevOps - Step By Step Learning : Part 10 (Linux Networking, Compression and Little Scripting for Automation)]({{< ref "blogs/133-devops-linux-networking.md" >}})
 ---
 
 {{< figure
