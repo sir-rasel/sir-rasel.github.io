@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 11:** [DevOps - Step By Step Learning : Part 11 (Virtualization, VM, and Automation VM Using Vagrant)]({{< ref "blogs/134-devops-vm-vagrant.md" >}})
+- **Part 13:** [DevOps - Step By Step Learning : Part 13 (Version Controlling Using Git and GitHub in a DevOps Perspectives)]({{< ref "blogs/136-devops-vcs-git-github.md" >}})
 ---
 
 {{< figure
