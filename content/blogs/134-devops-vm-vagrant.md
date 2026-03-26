@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 10:** [DevOps - Step By Step Learning : Part 10 (Linux Networking, Compression and Little Scripting for Automation)]({{< ref "blogs/133-devops-linux-networking.md" >}})
+- **Part 12:** [DevOps - Step By Step Learning : Part 12 (Dissection Important Part of Vagrantfile)]({{< ref "blogs/135-devops-vagrant.md" >}})
 ---
 
 {{< figure
