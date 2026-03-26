@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 9:** [DevOps - Step By Step Learning : Part 9 (Linux Package, User Permission, System Process Management)]({{< ref "blogs/132-devops-linux-package-user-process.md" >}})
+- **Part 11:** [DevOps - Step By Step Learning : Part 11 (Virtualization, VM, and Automation VM Using Vagrant)]({{< ref "blogs/134-devops-vm-vagrant.md" >}})
 ---
 
 {{< figure
