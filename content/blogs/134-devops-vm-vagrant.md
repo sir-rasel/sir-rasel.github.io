@@ -18,8 +18,8 @@ ShowPostNavLinks: true
 ShowCodeCopyButtons: true
 cover:
     image: "img/blogs/134-devops-vm.jfif"
-    caption: "DevOps Vitualization"
-    alt: "DevOps Vitualization"
+    caption: "DevOps Virtualization"
+    alt: "DevOps Virtualization"
     relative: true
     hidden: true
 ---
@@ -32,7 +32,7 @@ cover:
 
 {{< figure
     src="/img/blogs/134-devops-vm.jfif"
-    caption="DevOps Vitualization (Photo Credit: Unsplash)"
+    caption="DevOps Virtualization (Photo Credit: Unsplash)"
     align=center
 >}}
 

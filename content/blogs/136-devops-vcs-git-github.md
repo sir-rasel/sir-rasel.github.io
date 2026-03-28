@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 12:** [DevOps - Step By Step Learning : Part 12 (Dissection Important Part of Vagrantfile)]({{< ref "blogs/135-devops-vagrant.md" >}})
+- **Part 21:** [DevOps - Step By Step Learning : Part 21 (Shell Scripting - Tool For Automation Repetitive Task)]({{< ref "blogs/137-devops-shell-scripting.md" >}})
 ---
 
 {{< figure
@@ -37,7 +38,7 @@ cover:
 
 ## Story:
 
-Rasel already learned coding in GoLang, some basic scripting using Linux commands, and VM automation using Vagrant. All of them need to be stored with better change control and version control. Though Rasel is a software engineer and used to working with version control tools like Git and GitHub, he wanted to explore Git and GitHub in a DevOps perspectives. So he did so.
+Rasel already learned coding in Golang, some basic scripting using Linux commands, and VM automation using Vagrant. All of them need to be stored with better change control and version control. Though Rasel is a software engineer and used to working with version control tools like Git and GitHub, he wanted to explore Git and GitHub in a DevOps perspectives. So he did so.
 
 * * *
 
@@ -124,7 +125,7 @@ git pull
 Always we need to examining commit logs, diffs and object information. In git it is easy to do with the following commands:
 
 *   **git log**: show the commit history for the currently active branch,
-*   **git log branchB..branchA**: show the commits on branchA that are not on branchB,
+*   **git log branchB...branchA**: show the commits on branchA that are not on branchB,
 *   **git log --follow [file]**: show the commits that changed file, even across renames,
 *   **git diff branchB...branchA**: show the diff of what is in branchA that is not in branchB,
 *   **git show [SHA]**: show any object in Git in human-readable format,
