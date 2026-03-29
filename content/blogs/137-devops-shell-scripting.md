@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 13:** [DevOps - Step By Step Learning : Part 13 (Version Controlling Using Git and GitHub in a DevOps Perspectives)]({{< ref "blogs/136-devops-vcs-git-github.md" >}})
+- **Part 14:** [DevOps - Step By Step Learning : Part 14 (Why Need Networking, What Theoretical and Practical Knowledge Should Know)]({{< ref "blogs/138-devops-networking-knowledge.md" >}})
 ---
 
 {{< figure
