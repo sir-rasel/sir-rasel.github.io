@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 21:** [DevOps - Step By Step Learning : Part 21 (Shell Scripting - Tool For Automation Repetitive Task)]({{< ref "blogs/137-devops-shell-scripting.md" >}})
+- **Part 15:** [DevOps - Step By Step Learning : Part 15 (Learn Fundamental Networking Theoretical Knowledge)]({{< ref "blogs/139-devops-networking-theoretical-knowledge.md" >}})
 ---
 
 {{< figure
