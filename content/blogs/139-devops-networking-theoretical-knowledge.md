@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 14:** [DevOps - Step By Step Learning : Part 14 (Why Need Networking, What Theoretical and Practical Knowledge Should Know)]({{< ref "blogs/138-devops-networking-knowledge.md" >}})
+- **Part 16:** [DevOps - Step By Step Learning : Part 16 (How DNS and DHCP Operates in Application Layer)]({{< ref "blogs/140-devops-networking-dns-dhcp.md" >}})
 ---
 
 {{< figure
