@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 18:** [DevOps - Step By Step Learning : Part 18 (NAT, PAT For Inner Private with Outer Public Network Handshaking)]({{< ref "blogs/142-devops-networking-nat-pat.md" >}})
+- **Part 20:** [DevOps - Step By Step Learning : Part 20 (Hands On Networking Commands, Practically Connect The Theory)]({{< ref "blogs/144-devops-networking-practical.md" >}})
 ---
 
 {{< figure

@@ -63,7 +63,7 @@ ARP (Address Resolution Protocol) is a protocol used to that maps IP addresses (
 *   Use ARP to ask: “Who has IP 10.1.1.1? Tell me your MAC address!”.
 *   The target device replies with its MAC address. Then your laptop sends the Ethernet frame to that MAC.
 
-### How ARP Works (Step-by-Step)
+### How ARP Works (Step-by-Step)?
 
 Let’s say your PC (10.1.1.1, MAC AAA) wants to ping 10.1.1.3.
 

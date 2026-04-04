@@ -72,13 +72,13 @@ NAT (Network Address Translation)
 
 NAT (Network Address Translation) is a technique used to **translate IP addresses** between private and public networks. Means it only manipulates the Network Layer / L3 header.
 
-### Why We Need NAT
+### Why We Need NAT?
 
 *   IPv4 addresses are limited.
 *   Protects internal network structure (security).
 *   Allows **internet access** for private IP devices.
 
-### How NAT Works (Basic)
+### How NAT Works (Basic)?
 
 1.  A device with private IP (e.g., 192.168.1.10) sends a request to the internet.
 2.  NAT device (router/firewall/load balancer/server) **translates** it to public IP (e.g., 203.0.11.1) and keeps a record.
@@ -119,12 +119,12 @@ PAT (Port Address Translation)
 
 PAT (Port Address Translation) is a **Many-to-One** mapping, that is many private IPs share a **single public IP**, distinguished by **port numbers**. Means it manipulates both the Network Layer / L3 header and Transport Layer / L4 header.
 
-### Why We Need PAT
+### Why We Need PAT?
 
 *   Home networks, offices, cloud VPCs etc. need many host but limited Public IPs.
 *   Most common NAT type used in todays world.
 
-### How PAT Works (Basic)
+### How PAT Works (Basic)?
 
 *   A device with private IP (e.g., 192.168.1.10) and specific port (e.g., 3333) sends a request to the internet.
 *   NAT/PAT device (router/firewall/load balancer/server) **translates** it to public IP (e.g., 203.0.11.1) and a port (e.g., 33) and keeps a record.
