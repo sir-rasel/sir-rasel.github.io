@@ -17,7 +17,7 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowCodeCopyButtons: true
 cover:
-    image: "img/blogs/139-devops-networking-dns-dhcp.jfif"
+    image: "img/blogs/140-devops-networking-dns-dhcp.jfif"
     caption: "DevOps Networking DNS & DHCP"
     alt: "DevOps Networking DNS & DHCP"
     relative: true
@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 15:** [DevOps - Step By Step Learning : Part 15 (Learn Fundamental Networking Theoretical Knowledge)]({{< ref "blogs/139-devops-networking-theoretical-knowledge.md" >}})
+- **Part 17:** [DevOps - Step By Step Learning : Part 17 (ARP Is The Bridge Between Data Link and Network Layer)]({{< ref "blogs/141-devops-networking-arp.md" >}})
 ---
 
 {{< figure
