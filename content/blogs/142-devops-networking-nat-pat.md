@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 17:** [DevOps - Step By Step Learning : Part 17 (ARP Is The Bridge Between Data Link and Network Layer)]({{< ref "blogs/141-devops-networking-arp.md" >}})
+- **Part 19:** [DevOps - Step By Step Learning : Part 19 (TCP and UDP Are The Backbone of Transport Layer)]({{< ref "blogs/143-devops-networking-tcp-udp.md" >}})
 ---
 
 {{< figure
