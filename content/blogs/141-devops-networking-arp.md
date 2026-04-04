@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 16:** [DevOps - Step By Step Learning : Part 16 (How DNS and DHCP Operates in Application Layer)]({{< ref "blogs/140-devops-networking-dns-dhcp.md" >}})
+- **Part 18:** [DevOps - Step By Step Learning : Part 18 (NAT, PAT For Inner Private with Outer Public Network Handshaking)]({{< ref "blogs/142-devops-networking-nat-pat.md" >}})
 ---
 
 {{< figure
