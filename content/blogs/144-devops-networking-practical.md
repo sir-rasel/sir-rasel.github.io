@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 19:** [DevOps - Step By Step Learning : Part 19 (TCP and UDP Are The Backbone of Transport Layer)]({{< ref "blogs/143-devops-networking-tcp-udp.md" >}})
+- **Part 22:** [DevOps - Step By Step Learning : Part 22 (Introduction of Containerization Tool Docker)]({{< ref "blogs/145-devops-docker-intro.md" >}})
 ---
 
 {{< figure
