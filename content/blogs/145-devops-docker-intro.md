@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 20:** [DevOps - Step By Step Learning : Part 20 (Hands On Networking Commands, Practically Connect The Theory)]({{< ref "blogs/144-devops-networking-practical.md" >}})
+- **Part 23:** [DevOps - Step By Step Learning : Part 23 (Docker Hands On)]({{< ref "blogs/146-devops-docker-hands-on.md" >}})
 ---
 
 {{< figure
