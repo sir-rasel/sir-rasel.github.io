@@ -2,7 +2,7 @@
 title: "DevOps - Step By Step Learning : Part 23 (Docker Hands On)"
 description: "Let's learn the fundamental DevOps concepts!"
 date: "2026-03-07T00:00:00Z"
-tags: ["devops" , "docker"]
+tags: ["devops" , "docker", "dockerfile"]
 draft: false
 showtoc: false
 tocOpen: false
@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 22:** [DevOps - Step By Step Learning : Part 22 (Introduction of Containerization Tool Docker)]({{< ref "blogs/145-devops-docker-intro.md" >}})
+- **Part 24:** [DevOps - Step By Step Learning : Part 24 (Docker Compose & Docker Swarm Hands On)]({{< ref "blogs/147-devops-docker-compose-swarm.md" >}})
 ---
 
 {{< figure
