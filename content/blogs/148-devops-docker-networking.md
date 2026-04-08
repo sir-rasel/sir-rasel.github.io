@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 24:** [DevOps - Step By Step Learning : Part 24 (Docker Compose & Docker Swarm Hands On)]({{< ref "blogs/147-devops-docker-compose-swarm.md" >}})
+- **Part 26:** [DevOps - Step By Step Learning : Part 26 (Build Tools and Its Necessity)]({{< ref "blogs/149-devops-build-tool.md" >}})
 ---
 
 {{< figure
