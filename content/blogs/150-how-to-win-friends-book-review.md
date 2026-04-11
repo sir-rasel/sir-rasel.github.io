@@ -62,7 +62,7 @@ The book is divided into core principles grouped into sections, each targeting a
 - Let others feel the idea is theirs
 - Try honestly to see things from the other person's point of view
 - Be sympathetic with the other person's ideas and desires
-- Appeal to the nobler motives and dramatise your ideas
+- Appeal to the nobler motives and dramatize your ideas
 
 ***Part 4: Be a Leader (Influence Without Offending)***
 - Praise improvements and give honest appreciation
