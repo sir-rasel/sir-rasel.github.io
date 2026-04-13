@@ -3,7 +3,7 @@ languageCode: en-us
 title: S.I.R World
 theme: PaperMod
 pagination:
-  pagerSize: 5
+  pagerSize: 10
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -152,10 +152,16 @@ params:
     isCaseSensitive: false
     shouldSort: true
     location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
+    distance: 100
+    threshold: 0.3
+    minMatchCharLength: 2
+    ignoreLocation: true
+    keys: [
+      { name: "title", weight: 0.5 },
+      { name: "summary", weight: 0.2 },
+      { name: "content", weight: 0.2 },
+      { name: "permalink", weight: 0.1 }
+    ]
 
 # Top Bar Menus
 menu:

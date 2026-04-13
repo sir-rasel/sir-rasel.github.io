@@ -1,8 +1,8 @@
 ---
 title: "Leadership Development: S.T.E.E.R. To The Future"
 description: "Let's learn how to develop leadership capabilities!"
-date: "2026-04-13T00:00:00Z"
-tags: ["leadership-development" , "leadership", "S.T.E.E.R."]
+date: "2026-04-14T00:00:00Z"
+tags: ["leadership-development" , "leadership", "STEER"]
 draft: false
 showtoc: false
 tocOpen: false
@@ -79,6 +79,7 @@ in the field of leadership development, coaching, and training. His diverse educ
 These are the five dimensions of bKash leadership.
 
 ---
+
 ### Strategist
 **Definition**: Sets direction and makes future-oriented decisions (with actions).
 
@@ -95,11 +96,13 @@ These are the five dimensions of bKash leadership.
 - Inspire ownership - motivate the team to take responsibility
 - Listen for diverse perspectives - gather and value different viewpoints
 - Align team with strategy - connect daily work to organizations mission
-- Challange the status quo - ask, "how can we do better?"
+- Challenge the status quo - ask, "how can we do better?"
 
 **Key mindset**:
 > “Am I solving the right problem, not just solving it right?”
+
 ---
+
 ### Talent Developer
 **Definition**: Nurtures and empowers team members.
 
@@ -112,15 +115,17 @@ These are the five dimensions of bKash leadership.
 
 **The Six Behaviors of a Talent Developer**:
 - Build bench/pipeline strong - prepare successors for key roles
-- Align growth with needs - connect personal aspirations to origanizational priorities
+- Align growth with needs - connect personal aspirations to organizational priorities
 - Foster continuous learning - encourage ongoing skill-building and curiosity
 - Develop strategic & collaborative skills - equip team members for higher-level impact
-- Broaden capability via challanges - stretch people with meaningful new responsibilities
+- Broaden capability via challenges - stretch people with meaningful new responsibilities
 - Improve with feedback - coach consistently for growth and performance
 
 **Key mindset**:
 > “If my team grows, everything else grows.”
+
 ---
+
 ### Enabler
 **Definition**: Removes barriers, provides resources, and supports collaboration.
 
@@ -135,13 +140,15 @@ These are the five dimensions of bKash leadership.
 - Engage & energize people - motivate with enthusiasm and purpose
 - Foster transparency & inclusivity - build trust through open communication
 - Enable peak performance - provide tools, resources, and clarity for success
-- Remove roadblocks - anticipate and elimincate obstacles
+- Remove roadblocks - anticipate and eliminate obstacles
 - Encourage innovation & adaptability - create space for new ideas
 - Build authentic relationships - show care, consistency, and integrity
 
 **Key mindset**:
 > “How can I make it easier for my team to succeed?”
+
 ---
+
 ### Executor
 **Definition**: Delivers on promises with discipline and speed.
 
@@ -153,16 +160,18 @@ These are the five dimensions of bKash leadership.
 - Ensuring consistent progress
 
 **The Six Behaviors of a Executor Leader**:
-- Plan & manage work effectively - set clear goals, timelines, and prorities
+- Plan & manage work effectively - set clear goals, timelines, and priorities
 - Ensure accountability - track commitments and follow through
-- Execute with speed - deliver results without compromissing quality
+- Execute with speed - deliver results without compromising quality
 - Leverage team strengths - use diverse skills for stronger outcomes
 - Make smart trade-offs - balance risk, cost, and speed to optimize outcomes
 - Deliver results consistently - build trust by achieving what was promised
 
 **Key mindset**:
 > “Execution beats intention.”
+
 ---
+
 ### Resilient
 **Definition**: Stays strong in adversity, adapts quickly.
 
@@ -178,8 +187,8 @@ These are the five dimensions of bKash leadership.
 - Bounce back from setbacks - learn and recover quickly from difficulties
 - Demonstrate learning agility - adapt, experiment, and grow from experiences
 - Manage emotions - stay composed, model calm, and support others' emotions
-- Maintain positivity - encourage optimism and foucs on solutions
-- Stay alinged with values - keep decisions grounded in organization's mission and priciples
+- Maintain positivity - encourage optimism and focus on solutions
+- Stay aligned with values - keep decisions grounded in organization's mission and principles
 
 **Key mindset**:
 > “Setbacks are part of the process—not the end of it.”
@@ -195,7 +204,7 @@ These are the five dimensions of bKash leadership.
 ---
 
 ## Conclusion:
-Successful leaders need to follow all of these 5 dimensions. Without any one of these can fall behind. Becasuse all five dimensions are interdependent:
+Successful leaders need to follow all of these 5 dimensions. Without any one of these can fall behind. Because all five dimensions are interdependent:
 - Strategy aligns with talent
 - Enabling empowers execution
 - Resilience sustains all others

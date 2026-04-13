@@ -27,6 +27,7 @@ cover:
 ---
 ### Other Parts of This Series:
 - **Part 15:** [Software Design Patterns and Principles - Part 15 (Strategy Design Pattern)]({{< ref "blogs/58-strategy-design-pattern.md" >}})
+- **Bonus:** [Object Oriented Design (OOD) Interview Preparation]({{< ref "blogs/152-ood-interview-preparation.md" >}})
 ---
 
 {{< figure
