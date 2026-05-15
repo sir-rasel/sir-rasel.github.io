@@ -27,8 +27,9 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Saiful Islam Rasel
-    subtitle: A Product-Centric Software Architect & Engineer With Several Years of Experience 
-      In Designing & Scaling Systems Used By Millions. Always Love To Learn & Share.
+    subtitle: A Product-Centric Engineering Leader, Software Architect & Engineer With Years of 
+      Experience In Leading, Designing, Implementing & Scaling Systems Used By Millions. 
+      Always Love To Learn & Share.
     imageUrl: /img/profile.png
     imageWidth: 300
     imageHeight: 300
