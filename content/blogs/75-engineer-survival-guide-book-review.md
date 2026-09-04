@@ -134,7 +134,8 @@ By applying these insights, engineers can navigate workplace challenges, build s
 39. Setting Focus Blocks
 40. Make People Think It Was Their Idea
 41. Being More Active on Interviews
-42. What to Expect from a Brand-New Manager43. Collecting Feedback
+42. What to Expect from a Brand-New Manager
+43. Collecting Feedback
 44. Dogfooding
 45. The Importance of Knowing Terms—Office Jargon
 46. Knowing Popular Frameworks and How They Work
